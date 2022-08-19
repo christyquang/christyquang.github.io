@@ -67,7 +67,7 @@ body {
     --clr-fg: rgb(32, 76, 141);
     --clr-fg-alt: rgb(167, 238, 217);
     --clr-hovered-link: #1ead95;
-    --clr-project-stack: rgb(104, 108, 114);
+    --clr-project-stack: rgb(61, 154, 182);
     --clr-primary: #54c9ec;
     --shadow: rgba(100, 100, 111, 0.2) 0px 7 px 29px 0px;
     --darker-shadow--card: rgba(82, 200, 255, 0.849) 0px 7px 29px 0px;
@@ -250,8 +250,8 @@ a {
 }
 
 .btn--icon {
-    padding: 0;
-    font-size: 1rem;
+    padding: 3px;
+    font-size: 1.25rem;
 }
 
 .btn--icon:hover,
@@ -443,7 +443,7 @@ main {
 }
 
 .experience__date {
-    font-size: 11px;
+    font-size: 14px;
     color: var(--clr-project-stack);
 }
 
@@ -466,9 +466,9 @@ main {
 }
 
 .stack {
-    padding-top: 15px;
+    padding-top: 10px;
     text-align: left;
-    font-size: 11px;
+    font-size: 13px;
     color: var(--clr-project-stack);
 }
 
@@ -556,7 +556,7 @@ main {
 }
 
 .project__desc {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .project__links {
