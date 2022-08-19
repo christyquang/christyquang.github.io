@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+        <meta name="description" content="Portfolio" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet" />
+        <link rel="icon" href="images/CQ-logo.png">
+        <script src="https://kit.fontawesome.com/fa62c117c7.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="footer.css">
+        <link rel="stylesheet" href="header.css">
+        <link rel="stylesheet" href="about.css">
+        <link rel="stylesheet" href="contact.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <title>Christy Quang</title>
+    </head>
+
+    <!---Header--->
+    <body class="light" id="top">
+        </div>
+            <header class="header">
+                <a class="navbar-brand" href="/">
+                    <div id="nav">
+                        <img src="images/CQ-logo.png" id="logo" style="width: 35px; height: 35px;">
+                        <a href="/" class="header-logo">christy.io</a>
+                    </div>
+                </a>
+                <nav class="nav">
+                    <div class="toggle"><i class="fas fa-bars"></i></div>
+                    <u1 class="nav-menu">
+                        <li class="nav__list-item">
+                            <a class="link link--nav" href="#work">experiences</a>
+                        </li>
+                        <li class="nav__list-item">
+                            <a class="link link--nav" href="#project">projects</a>
+                        </li>
+                        <li class="nav__list-item">
+                            <a class="link link--nav" href="#contact">contact me!</a>
+                        </li>
+                        <li class="nav__list-item">
+                            <button type="button" aria-label="toggle theme" class="btn btn--icon">
+                                <i id="btn-theme" class="fas fa-moon"></i>
+                            </button>
+                        </li>
+                    </u1>
+                </nav>
+            </header>
+
+            <main>
+                <div class="intro">
+                    <div class="about center">
+                        <h1 id="typewriter"><span id="typewritername" class="about__name"></span></h1>
+                        <div class="hidden" id="fadeInDesc">
+                            <h3><span class="about__role">Computer and Data Science Student @ UC Berkeley</span></h3>
+                            <p><span class="about__desc">An aspiring data scientist and software engineer located in the Bay, looking for opportunities to expand my knowledge while fostering a collaborative and welcoming community!</span></p>
+                            <div class="about__contact left">
+                                <a href="https://github.com/christyquang" aria-label="github" class="btn--icon link--icon">
+                                    <i areia-hidden="true" class="fab fa-github"></i>
+                                </a>
+                                <a href="https://www.linkedin.com/in/christyquang/" aria-label="linkedin" class="btn--icon link--icon">
+                                    <i aria-hidden="true" class="fab fa-linkedin"></i>
+                                </a>
+                                <a href="https://www.instagram.com/crustyquang/" aria-label="instagram" class="btn--icon link--icon">
+                                    <i aria-hidden="true" class="fab fa-instagram"></i>
+                                </a>
+                                <a href="https://www.facebook.com/christy.quang.58/" aria-label="facebook" class="btn--icon link--icon">
+                                    <i aria-hidden="true" class="fab fa-facebook-f"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="imagecontainer">
+                        <img class="headshot" src="images/CQ.jpg" width="150" height="200"/>
+                    </div>
+                </div>
+
+                <!---Work Experience--->
+                <section id="work" class="section experience">
+                    <h2 class="section__title">Work Experience</h2>
+                    <div class="experience__grid">
+                        <div class="experience__card">
+                            <div class="experience__image__container">
+                                <img style="height: 140px; width: 140px;" src="images/geopogo.jpg">
+                            </div>
+                            <div class="experience__content">
+                                <div class="experience__company__info">
+                                    <div class="experience__title">
+                                        <h4>Data Science Intern</h4>
+                                        <p class="experience__date">Jan 2022 - May 2022</p>
+                                    </div>
+                                    <p class="experience__company__name">Geopogo</p>
+                                </div>
+                                <p class="experience__description">
+                                    • Part of the Market Research and City Data Teams through UCB's Data Science Discovery Program
+                                </p>
+                                <p class="experience__description">
+                                    • Market Research: Analyzed 45 customer interviews regarding their experiences in architecture surrounding costs, technology adoption, pain points, ownership, etc and built data report identifying key industry trends
+                                </p>
+                                <p class="experience__description">
+                                    • City Data: Identified and integrated sources of municipal data as a visual layer on top of the city map in Unreal Engine
+                                </p>
+                                <p class="stack">
+                                    Python | Google Sheets | Unreal Engine
+                                </p>
+                            </div>
+                        </div>
+                        <div class="experience__card">
+                            <div class="experience__image__container">
+                                <img style="height: 140px; width: 140px;" src="images/cs61b.png">
+                            </div>
+                            <div class="experience__content">
+                                <div class="experience__company__info">
+                                    <div class="experience__title">
+                                        <h4>CS61B(L) Academic Intern</h4>
+                                        <p class="experience__date">June 2022 - Present</p>
+                                    </div>
+                                    <p class="experience__company__name">University of California, Berkeley</p>
+                                </div>
+                                <p class="experience__description">
+                                    • Provided 30+ students with personalized guidance and academic support for daily lab sections in 
+                                    CS61BL (Data Structures and Algorithms)
+                                </p>
+                                <p class="experience__description">
+                                    • Taught topics including object-oriented programming, data structures, version control, time complexity,
+                                    graph traversal, and sorting algorithms
+                                </p>
+                                <p class="stack">
+                                    Java
+                                </p>
+                            </div>
+                        </div>
+                        <div class="experience__card">
+                            <div class="experience__image__container">
+                                <img style="height: 40px; width: 160px;" src="images/cdss.png">
+                            </div>
+                            <div class="experience__content">
+                                <div class="experience__company__info">
+                                    <div class="experience__title">
+                                        <h4>Data 8 Academic Intern</h4>
+                                        <p class="experience__date">January 2022 - Present</p>
+                                    </div>
+                                    <p class="experience__company__name">University of California, Berkeley</p>
+                                </div>
+                                <p class="experience__description">
+                                    • Provided 40+ students with personalized guidance and academic support for weekly lab sections in Data 8 (Foundations of Data Science)
+                                </p>
+                                <p class="experience__description">
+                                    • Taught topics including table manipulation and creations, conditionals, sampling, A/B Testing, linear regression, least squares, classifiers, etc.
+                                </p>
+                                <p class="stack">
+                                    Python | NumPy | Jupyter Notebook
+                                </p>
+                            </div>
+                        </div>
+                        <div class="experience__card">
+                            <div class="experience__image__container">
+                                <img style="height: 140px; width:150px;" src="images/awe-logo.png">
+                            </div>
+                            <div class="experience__content">
+                                <div class="experience__company__info">
+                                    <div class="experience__company__info">
+                                        <div class="experience__title">
+                                            <h4>Industrial Relations Officer</h4>
+                                            <p class="experience__date">January 2022 - Present</p>
+                                        </div>
+                                        <p class="experience__company__name">Association of Women in EE&CS @ UC Berkeley</p>
+                                    </div>
+                                    <p class="experience__description">
+                                        • Work with external company recruiters to organize and host weekly industry events for 450+ club members
+                                    </p>
+                                    <p class="experience__description">
+                                        • Past: Professional Development & Technical, Operations committee member
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!---Personal Projects-->
+                    <section id="project" class="section">
+                        <h2 class="section__title">Personal Projects</h2>
+                        <div class="project">
+                            <div class="project">
+                                <div class="project__card" id="animation__container1">
+                                    <div>
+                                        <h4 id="project">World Happiness Analysis</h4>
+                                        <div class="project__content">
+                                            <img id="project__image" style="height: 130px;" src="images/dss.png" />
+                                        </div>
+                                        <i class="fas fa-chevron-down" style="margin-top: 30px;"></i>
+                                    </div>
+                                </div>
+                                <div class="project__description none" id="animation__container2">
+                                    <i class="fas fa-chevron-up" style="margin-bottom: 0px;"></i>
+                                    <p class="project__desc">
+                                        • Machine learning model (emphasis on linear regression) that analyzed the effect of climate-related
+                                        legislation/policies on different categories of the world happiness index for specific countries
+                                    </p>
+                                    <p class="project__desc">
+                                        • Utilized datasets from Kaggle; data cleaning, modeling, visualization and analysis done on Deepnote, 
+                                        article published on Medium
+                                    </p>
+                                    <a href="https://medium.com/@christyquang/climate-related-legislation-policies-and-the-happiness-of-countries-around-the-world-8d211b7bae89" target="_blank" class="btn--icon link--icon">
+                                        <i class="fab fa-medium"></i>
+                                    </a>
+                                    <a href="https://deepnote.com/workspace/christy-quang-c1b08917-2898-4736-b79b-d31c659842b6/project/DSS-Project-243c6342-64f5-4a7f-b1ea-194881bf01c5/%2Fnotebook.ipynb" target="_blank" class="btn--icon link--icon">
+                                        <i class="fa-solid fa-folder"></i>
+                                    </a>
+                                    <p class="stack">Pandas | NumPy | Seaborn | MatPlot</p>
+                                </div>
+                                <div class="project__card" id="animation__container3">
+                                    <div>
+                                        <h4 id="discord-bot">Discord Streaming Bot</h4>
+                                        <div class="project__content">
+                                            <img id="project__image" style="height: 100px;" src="images/discord.png" />
+                                        </div>
+                                        <i class="fas fa-chevron-down" style="margin-top: 30px;"></i>
+                                    </div>
+                                </div>
+                                <div class="project__description none" id="animation__container4">
+                                    <i class="fas fa-chevron-up" style="margin-bottom: 10px;"></i>
+                                    <p class="project__desc">
+                                        • [IN PROGRESS] A Discord bot that notifies online members within a server when someone is streaming on Twitch.
+                                    </p>
+                                    <a href="https://github.com/christyquang/discord-bot" target="_blank" class="btn--icon link--icon">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                    <p class="stack">Python | Discord</p>
+                                </div>
+                                <div class="project__card" id="animation__container5">
+                                    <div>
+                                        <h4 id="java-vcs">Java VCS</h4>
+                                        <div class="project__content">
+                                            <img id="project__image" style="height: 140px;" src="images/git-logo.svg" />
+                                        </div>
+                                        <i class="fas fa-chevron-down" style="margin-top: 30px;"></i>
+                                    </div>
+                                </div>
+                                <div class="project__description none" id="animation__container6">
+                                    <i class="fas fa-chevron-up" style="margin-bottom: 10px"></i>
+                                    <p class="project__desc">
+                                        • A version control system similar to that of Git. Implemented commands such as add(), commit(), branch(), checkout(), merge(), etc.
+                                    </p>
+                                    <p class="project__desc">
+                                        • Utilized OOP to keep track of the relationship between commits and files that are tracked. Used hashes to ensure commit uniqueness.
+                                    </p>
+                                    <a href="https://github.com/christyquang/" target="_blank" class="btn--icon link--icon">
+                                        <i class="fab fa-github"></i>
+                                    </a>
+                                    <p class="stack">Java</p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!---Contact-->
+                    <section id="contact" class="section">
+                        <h2 class="section__title">Contact Me!</h2>
+                        <p align="center">Feel free to reach out to me through email (christyquang@berkeley.edu), by any of my social medias below or by filling out the 
+                            form underneath! I'll do my best to respond as soon as possible :D</p>
+                        
+                        <div class="box">
+                            <form action="POST" data-netlify="true">
+                                <div class="fields">
+                                    <div class="field half">
+                                        <input type="text" name="name" id="name" value="" placeholder="Name" />
+                                    </div>
+                                    <div class="field half">
+                                        <input type="email" name="email" id="email" value="" placeholder="Email" />
+                                    </div>
+                                    <div class="field half">
+                                        <input type="text" name="subject" id="subject" value="" placeholder="Subject" />
+                                    </div>
+                                    <div class="field half">
+                                        <textarea name="message" id="message" placeholder="Enter your message" rows="12"></textarea>
+                                    </div>
+                                    <div class="field half">
+                                        <ul class="actions special">
+                                            <li><input type="submit" value="Send Message" /></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </main>
+
+        <div class="cube">
+            <div class="top"></div>
+            <div>
+                <span style="--i:0;"></span>
+                <span style="--i:1;"></span>
+                <span style="--i:2;"></span>
+                <span style="--i:3;"></span>
+            </div>
+        </div>
+
+        <footer class="footer-container">
+            <div class="footer">
+                <div class="footer-column">
+                    <a href="/" class="footer-logo">christy.io</a>
+                    <div class="socials">
+                        <ul class="icons">
+                            <li><a href="https://www.linkedin.com/in/christyquang/"
+                                aria-label="LinkedIn" target="_blank">
+                                <i class="fab fa-linkedin"></i>
+                            </a></li>
+                                    
+                            <li><a href="https://github.com/christyquang" aria-label="Github"
+                                target="_blank">
+                                <i class="fab fa-github"></i>
+                            </a></li>
+                                    
+                            <li><a href="https://www.instagram.com/crustyquang/" aria-label="Instagram"
+                                target="_blank">
+                                <i class="fab fa-instagram"></i>
+                            </a></li>
+                                
+                            <li><a href="https://www.facebook.com/christy.quang.58/" aria-label="FaceBook"
+                                target="_blank">
+                                <i class="fab fa-facebook-f"></i>
+                            </a></li>
+
+                            <li><a href="https://open.spotify.com/user/d0826w16nnl10c9tudnraqzhe?si=d650b59973e54e55" aria-label="Google"
+                                target="_blank">
+                                <i class="fab fa-spotify"></i>
+                            </a></li>
+                        </ul>
+                    </div>
+                        <span class="copyright"><i class="fas fa-copyright"></i> Christy Quang 2022</span>
+                    </div>
+                </div>
+            </footer>
+
+            <div class="scroll-container">
+                <div class="scroll-top">
+                    <a aria-label="Scroll up" href="#top">
+                        <i aria-hidden="true" class="fas fa-arrow-up"></i>
+                    </a>
+                </div>
+            </div>
+
+        <!--Cursor-->
+        <div class="cursor-outer"></div>
+        <div class="cursor-inner"></div>
+        
+        <script>
+            const cursor = document.querySelector(".cursor-inner");
+            const cursor2 = document.querySelector(".cursor-outer");
+            
+            window.addEventListener("mousemove", e=>{
+                cursor.style.top = e.pageY + "px";
+                cursor.style.left = e.pageX + "px";
+
+                cursor2.style.top = e.pageY + "px";
+                cursor2.style.left = e.pageX + "px";
+            })
+        </script>
+        <script src="/script.js"></script>
+    </body>
+</html>
