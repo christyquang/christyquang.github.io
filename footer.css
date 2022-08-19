@@ -1,6 +1,6 @@
 .footer-container {
     border-top: 3px solid #73ecc8;
-    margin: 20px auto;
+    margin: 40px auto;
     padding-top: 20px;
 }
 
@@ -74,6 +74,7 @@
 .copyright {
     margin-top: 5px;
     letter-spacing: 0.05em;
+    padding-bottom: 15px;
 }
 
 @media only screen and (min-width: 768px) {
