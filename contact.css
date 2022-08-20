@@ -436,6 +436,7 @@ input[type="button"],
     text-decoration: none;
     white-space: nowrap;
     margin-top: 25px;
+    margin-bottom: 40px;
 }
 
     input[type="submit"]:hover,
