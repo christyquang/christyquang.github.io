@@ -10,7 +10,7 @@
     color: inherit;
     font-family: inherit;
     font-size: inherit;
-    box-shadow: none;
+    box-shadow: gray;
     box-sizing: border-box;
     cursor: none;
 }
@@ -84,7 +84,7 @@ body {
     --clr-hovered-link: #1ead95;
     --clr-project-stack: rgb(61, 154, 182);
     --clr-primary: #54c9ec;
-    --shadow: rgba(100, 100, 111, 0.2) 0px 7 px 29px 0px;
+    --shadow: rgba(202, 30, 136, 0.616) 0px 7 px 29px 0px;
     --darker-shadow--card: rgba(82, 200, 255, 0.849) 0px 7px 29px 0px;
     --darker-shadow--description: rgba(45, 255, 115, 0.767) 0px 7px 29px 0px;
 }
