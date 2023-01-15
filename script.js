@@ -161,8 +161,8 @@ project3_description.addEventListener("click", () => {
 	setTimeout(appear2, 500, project3, project3_description);
 });
 
-const design1 = document.getElementById("animation__container1");
-const design1_description = document.getElementById("animation__container2");
+const design1 = document.getElementById("animation__container7");
+const design1_description = document.getElementById("animation__container8");
 
 design1.addEventListener("click", () => {
   design1.classList.remove("fade");
@@ -176,8 +176,8 @@ design1_description.addEventListener("click", () => {
   setTimeout(appear2, 500, design1, design1_description);
 });
 
-const design2 = document.getElementById("animation__container3");
-const design2_description = document.getElementById("animation__container4");
+const design2 = document.getElementById("animation__container9");
+const design2_description = document.getElementById("animation__container10");
 
 design2.addEventListener("click", () => {
 	design2.classList.remove("fade");
@@ -191,8 +191,8 @@ design2_description.addEventListener("click", () => {
 	setTimeout(appear2, 500, design2, design2_description);
 });
 
-const design3 = document.getElementById("animation__container5");
-const design3_description = document.getElementById("animation__container6");
+const design3 = document.getElementById("animation__container11");
+const design3_description = document.getElementById("animation__container12");
   
 design3.addEventListener("click", () => {
 	design3.classList.remove("fade");
