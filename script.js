@@ -138,26 +138,72 @@ project2.addEventListener("click", () => {
 	project2.classList.remove("fade");
 	project2.classList.add("fade-out");
 	setTimeout(appear, 500, project2, project2_description);
-  });
+});
   
-  project2_description.addEventListener("click", () => {
+project2_description.addEventListener("click", () => {
 	project2_description.classList.remove("fade");
 	project2_description.classList.add("fade-out");
 	setTimeout(appear2, 500, project2, project2_description);
-  });
+});
 
-  const project3 = document.getElementById("animation__container5");
-  const project3_description = document.getElementById("animation__container6");
+const project3 = document.getElementById("animation__container5");
+const project3_description = document.getElementById("animation__container6");
   
-  project3.addEventListener("click", () => {
-	  project3.classList.remove("fade");
-	  project3.classList.add("fade-out");
-	  setTimeout(appear, 500, project3, project3_description);
-	});
+project3.addEventListener("click", () => {
+	project3.classList.remove("fade");
+	project3.classList.add("fade-out");
+	setTimeout(appear, 500, project3, project3_description);
+});
 	
-	project3_description.addEventListener("click", () => {
-	  project3_description.classList.remove("fade");
-	  project3_description.classList.add("fade-out");
-	  setTimeout(appear2, 500, project3, project3_description);
-	});
+project3_description.addEventListener("click", () => {
+	project3_description.classList.remove("fade");
+  project3_description.classList.add("fade-out");
+	setTimeout(appear2, 500, project3, project3_description);
+});
+
+const design1 = document.getElementById("animation__container1");
+const design1_description = document.getElementById("animation__container2");
+
+design1.addEventListener("click", () => {
+  design1.classList.remove("fade");
+  design1.classList.add("fade-out");
+  setTimeout(appear, 500, design1, design1_description);
+});
+
+design1_description.addEventListener("click", () => {
+  design1_description.classList.remove("fade");
+  design1_description.classList.add("fade-out");
+  setTimeout(appear2, 500, design1, design1_description);
+});
+
+const design2 = document.getElementById("animation__container3");
+const design2_description = document.getElementById("animation__container4");
+
+design2.addEventListener("click", () => {
+	design2.classList.remove("fade");
+	design2.classList.add("fade-out");
+	setTimeout(appear, 500, design2, design2_description);
+});
+  
+design2_description.addEventListener("click", () => {
+	design2_description.classList.remove("fade");
+	design2_description.classList.add("fade-out");
+	setTimeout(appear2, 500, design2, design2_description);
+});
+
+const design3 = document.getElementById("animation__container5");
+const design3_description = document.getElementById("animation__container6");
+  
+design3.addEventListener("click", () => {
+	design3.classList.remove("fade");
+	design3.classList.add("fade-out");
+	setTimeout(appear, 500, design3, design3_description);
+});
+	
+design3_description.addEventListener("click", () => {
+	design3_description.classList.remove("fade");
+  design3_description.classList.add("fade-out");
+	setTimeout(appear2, 500, design3, design3_description);
+});
+
     
