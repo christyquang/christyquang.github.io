@@ -13,14 +13,17 @@ header {
     height: 70px;
     padding: 0 15px;
     z-index: 2;
+    border-bottom: 1px solid darkcyan;
 }
 
 #logo {
     display: flex;
-    float: left;
     align-items: center;
-    justify-content: space-between;
-    flex-direction: left;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.header-logo {
+    margin: 0; /* Remove the margin-left property */
 }
 
 .extraLink {
@@ -132,7 +135,7 @@ header {
     nav .logo {
         float: none;
         width: auto;
-        justify-content: center;
+        justify-content: left;
     }
     .nav {
         display: flex;
