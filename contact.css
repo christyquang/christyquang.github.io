@@ -1,6 +1,46 @@
 /* Form */
 
-form {
+/* Center the content in the contact section */
+#contact {
+    text-align: center;
+}
+
+#contact .contact-list {
+    padding-top: 20px; 
+}
+
+/* Style for the contact list */
+.contact-list {
+    list-style: none; 
+    padding: 0;
+    font-size: 23px; 
+}
+
+.contact-list li {
+    margin-bottom: 10px; 
+}
+
+/* Style for the icons in the contact list */
+.contact-list li i {
+    margin-right: 5px; 
+}
+
+.contact-list ul {
+    margin-top: 8px; 
+    list-style: none;
+    padding: 0;
+}
+
+.contact-list a:hover {
+    text-decoration: none; /* Remove underline on hover */
+    font-weight: bold; /* Change the font weight on hover */
+}
+
+.contact-list a .underline {
+    text-decoration: underline;
+}
+
+/* form {
     margin: 0 0 2em 0;
 }
 
@@ -178,7 +218,7 @@ input[type="radio"] + label:before {
 
 /* Box */
 
-.box {
+/* .box {
     border-radius: 6px;
     margin: 0 0 2em 0;
     padding: 3em;
@@ -410,7 +450,7 @@ input[type="radio"] + label:before {
                 }
 
 /* Button */
-
+/* 
 input[type="submit"],
 input[type="reset"],
 input[type="button"],
@@ -556,4 +596,6 @@ input[type="button"],
         color: #f5f5f5 !important;
         cursor: crosshair;
         opacity: 0.25;
-    }
+    } */ 
+
+    
