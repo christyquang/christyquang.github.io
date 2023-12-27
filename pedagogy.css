@@ -1,0 +1,33 @@
+body.light table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+body.light th,
+body.light td {
+    border: 1px solid var(--clr-fg);
+    padding: 12px;
+    text-align: left;
+}
+
+body.light th {
+    background-color: var(--clr-primary);
+}
+
+body.dark table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+body.dark th,
+body.dark td {
+    border: 1px solid var(--clr-fg);
+    padding: 12px;
+    text-align: left;
+}
+
+body.dark th {
+    background-color: var(--thumbBG);
+}

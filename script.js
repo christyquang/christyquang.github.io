@@ -206,5 +206,9 @@ design3_description.addEventListener("click", () => {
 	setTimeout(appear2, 500, design3, design3_description);
 });
 
+/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+particlesJS.load('particles-js', 'particles.json', function() {
+  console.log('callback - particles.js config loaded');
+});
 
     
