@@ -66,7 +66,7 @@ window.onload = function () {
     80,
     fadeIn,
     type,
-    "Christy Quang",
+    "Christy Quang 👋",
     0,
     "typewritername",
     220
