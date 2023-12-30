@@ -36,16 +36,10 @@
                             <a class="link link--nav" href="about.html">about</a>
                         </li>
                         <li class="nav__list-item">
-                            <a class="link link--nav" href="#work">experience</a>
-                        </li>
-                        <li class="nav__list-item">
                             <a class="link link--nav" href="pedagogy.html">pedagogy</a>
                         </li>
                         <li class="nav__list-item">
-                            <a class="link link--nav" href="#project">projects</a>
-                        </li>
-                        <li class="nav__list-item">
-                            <a class="link link--nav" href="#design">design</a>
+                            <a class="link link--nav" href="projects.html">projects</a>
                         </li>
                         <li class="nav__list-item">
                             <a class="link link--nav" href="contact.html">connect</a>
@@ -68,8 +62,8 @@
                         <p><i>Pronouns: she/her</i></p>
                         <p><span class="about__desc">I was born and raised in the Bay Area where I'm currently a third year studying Computer Science and Data Science @ UC Berkeley,
                             graduating in May 2025. As someone who wasn't intending on majoring in CS heading into college, I'm still searching for the "niche" field that excites me
-                            and am experimenting in a variety of fields since I enjoy learning. As such, I'm interested in software & game development, human-centered interaction/design, computer graphics, 
-                            robotics, and data science where I plan on obtaining my master's degree in CS specializing in one of those fields post-undergrad. <br>
+                            and am experimenting in a variety of fields since I enjoy learning. As such, I'm interested in software & game development, human-centered interaction/design, 
+                            computer graphics, cloud, robotics, and data science where I plan on obtaining my master's degree in CS specializing in one of those fields post-undergrad. <br>
                             <br>
                             In my free time, I love playing sports (anything but running), watching basketball (Warriors!), playing video games, baking/cooking, and reading. 
                             I used to run a piano studio so I enjoy playing the piano and violin and aim to learn how to play fingerstyle guitar as well. I've always admired people who could speak
@@ -143,7 +137,7 @@
                                 <p class="input">
                                     <b>🤔 christy.</b><span class="blue"><b>interests</b></span>
                                 </p>
-                                <p class="return">software and game development, human-centered interaction/design, data analytics, sports (basketball), video games, cooking/baking, music</p>
+                                <p class="return">software and game development, human-centered interaction/design, cloud, data analytics, sports (basketball), video games, cooking/baking, music</p>
                             </div>
                             <div class="statement">
                                 <p class="input bottom"><span></span></p>
@@ -205,9 +199,9 @@
                 </section>
             </section>
 
-            <!---Work Experience--->
+            <!---Experience--->
             <section id="work" class="section experience">
-                <h2 class="section__title">Work Experience</h2>
+                <h2 class="section__title">Experience</h2>
                 <div class="experience__card">
                     <div class="experience__image__container">
                         <img class="experience__image__img" src="images/aws.png">
@@ -215,47 +209,61 @@
                     <div class="experience__content">
                         <div class="experience__company__info">
                             <div class="experience__title">
-                                <h4>Cloud Engineer Intern</h4>
+                                <h3>Cloud Engineer Intern</h3>
                                 <p class="experience__date">May 2023 - August 2023</p>
                             </div>
                             <p class="experience__company__name">Amazon Web Services (AWS)</p>
                         </div>
-                        <p class="experience__description">
-                            • Full-stack development of the administrative portal for Project Triton, a future internal tool for AWS Enterprise Skills Team utilized towards building tailored plans for customers
-                        </p>
-                        <p class="experience__description">
-                            • Prototyped wireframe and utilized AWS CDK, API Gateway, Lambda, DynamoDB and ReactJS to build functionality to manage catalog items and collections, significantly automating efficiency
-                        </p>
-                        <p class="experience__description">
-                            • Obtained AWS Solutions Architect and Cloud Practitioner certifications with no prior experience in cloud
-                        </p>
+                        <ul class="course-list">
+                            <li>
+                                <b>Full-stack development</b> of the administrative portal for Project Triton, a future internal tool for AWS Enterprise Skills Team utilized towards building tailored plans for customers
+                            </li>
+                            <li>
+                                Prototyped wireframe and utilized <b>AWS CDK, API Gateway, Lambda, DynamoDB and ReactJS</b> to build functionality to manage catalog items and collections, significantly <b>automating efficiency</b>
+                            </li>
+                            <li>
+                                Obtained AWS <u><a href="https://www.credly.com/badges/3ae168c6-10e6-485c-9328-628465bf6a43/public_url" target="_blank">Solutions Architect</a></u> and <u><a href="https://www.credly.com/badges/c9137b4d-99c6-438f-9383-f21ca4f0a2f4/public_url" target="_blank">Cloud Practitioner</a></u> certifications with no prior experience in cloud
+                            </li>
+                        </ul>
                         <p class="stack">
-                            Python | JavaScript | React.JS | DynamoDB | API Gateway | Amplify
+                            Python | JavaScript | React.JS | DynamoDB | API Gateway | Amplify | Figma
                         </p>
                     </div>
                 </div>
                 <div class="experience__card">
                     <div class="experience__image__container">
-                        <img class="experience__image__img" src="images/cdss.png">
+                        <img class="experience__image__img" src="images/cs88-logo.png">
                     </div>
                     <div class="experience__content">
                         <div class="experience__company__info">
                             <div class="experience__title">
-                                <h4>Undergraduate Course Staff 1 (Tutor) for CS88</h4>
+                                <h3>Undergraduate Course Staff 1 (Tutor) for CS 88</h3>
                                 <p class="experience__date">August 2023 - Present</p>
                             </div>
                             <p class="experience__company__name">University of California, Berkeley</p>
                         </div>
-                        <p class="experience__description">
-                            • Undergraduate course staff member holding weekly office hours (4+ hrs), leading exam prep sections and writing exam questions to support students taking CS88: Computational Structures in Data Science
-                        </p>
-                        <p class="experience__description">
-                            • Teach weekly exam preparation sections going over the previous week’s content to assist students on exams, top 3
-                            contributor on Ed (https://edstem.org), an online forum used by students and staff to ask and answer questions
-                        </p>
-                        <p class="experience__description">
-                            • Taught topics including Python loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, OOP, efficiency, etc
-                        </p>
+                        <ul class="course-list">
+                            <li>
+                                Led <b>highest attended exam prep section each week</b> going over previous week's content at an accelerated pace to help students prepare for exams
+                                <ul class="sub-course-list">
+                                    <li>
+                                        Contributed to creating <a href="https://drive.google.com/drive/folders/1Sy2v8UTBfqe3Wn_Nd2HMgiLNheFX1bT8?usp=sharing" target="_blank"><u>exam prep slides</u></a> used
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                Held <b>4+ hours of office hours</b> per week
+                            </li>
+                            <li>
+                                In the <b>top 5 answerers (top 2 among tutors) and top 3 commenters (top commenter among tutors)</b> on Ed, an online forum used by students and staff to ask and answer questions (Ed is used quite frequently: there are about 1000 question threads in total)
+                            </li>
+                            <li>
+                                Hosted <b>exam review sessions</b> for the midterm and final alongside writing exam questions
+                            </li>
+                            <li>
+                                Taught topics including Python, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, OOP, efficiency, SQL, etc
+                            </li>
+                        </ul>
                         <p class="stack">
                             Python | SQL 
                         </p>
@@ -269,17 +277,45 @@
                         <div class="experience__company__info">
                             <div class="experience__company__info">
                                 <div class="experience__title">
-                                    <h4>External Vice President</h4>
-                                    <p class="experience__date">January 2023 - Present</p>
+                                    <h3>Treasurer</h3>
+                                    <p class="experience__date">August 2021 - Present</p>
                                 </div>
                                 <p class="experience__company__name">Association of Women in EE&CS @ UC Berkeley</p>
                             </div>
-                            <p class="experience__description">
-                                • Lead the officer team while acting as AWE's representative to the EECS department in regards to working with faculty, company representatives and clubs to create partnerships, furthering supporting the communities
-                            </p>
-                            <p class="experience__description">
-                                • Past: Industrial Relations officer, Professional Development & Technical committee member
-                            </p>
+                            <ul class="course-list">
+                                <li>
+                                    Create and manage budget, reimbursements, and financial accounts alongside hosting fundraising events to raise money for AWE
+                                </li>
+                                <li>
+                                    <b>Previous positions:</b>
+                                    <ul class="sub-course-list">
+                                        <li>
+                                            <b>External Vice President</b>: Jan 2023 - Dec 2023
+                                            <ul class="sub-course-list">
+                                                <li>
+                                                    Lead the officer team while acting as AWE's representative to the EECS department in regards to working with faculty, company representatives and clubs to create partnerships, furthering supporting the communities
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <b>Industrial Relations officer</b>: Jan 2022 - Dec 2022
+                                            <ul class="sub-course-list">
+                                                <li>
+                                                    Communicated with company representatives to partner with 24 companies to host infosessions and field trips, raising over $15,000 across two semesters, breaking the past record of income generated
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <b>Committee member</b>: Aug 2021 - Dec 2021
+                                            <ul class="sub-course-list">
+                                                <li>
+                                                    Under Professional Development & Technical, and Operations departments
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>                            
                         </div>
                     </div>
                 </div>
@@ -290,97 +326,89 @@
                     <div class="experience__content">
                         <div class="experience__company__info">
                             <div class="experience__title">
-                                <h4>Senior Mentor for CS88</h4>
+                                <h3>Senior Mentor for CS88</h3>
                                 <p class="experience__date">August 2022 - Present</p>
                             </div>
-                            <p class="experience__company__name">Computer Science Mentors</p>
+                            <p class="experience__company__name">Computer Science Mentors @ UC Berkeley</p>
                         </div>
                         <p class="experience__description">
-                            • Teaching weekly sections to support students taking CS88: Computational Structures in Data Science
+                            CSM is a club on the UC Berkeley campus that organizes supplemental tutoring sections for lower division computer science and EECS courses. 
+                            I'm currently a 3 time Senior Mentor (SP '23, FA '23, SP '24) and was previously a Junior Mentor (FA '22) where I've:
                         </p>
-                        <p class="experience__description">
-                            • Topics include Python loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, OOP, efficiency, etc
-                        </p>
-                        <p class="experience__description">
-                            • Lead 4-5 junior mentors by providing targeted, specific feedback while building a supportive and collaborative environment between students and mentors
-                        </p>
+                        <ul class="course-list">
+                            <li>
+                                Taught <b>weekly sections</b> to support students taking CS88: Computational Structures in Data Science
+                                <ul class="sub-course-list">
+                                    <li>
+                                        Topics include Python, control, loops, higher order functions, lists, dictionaries, recursion, trees, linked lists, OOP, efficiency, SQL, etc
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <b>Created, reviewed, and revised</b> CSM content (ex: problems, worksheets, slideshows, etc)
+                            </li>
+                            <li>
+                                Lead and trained Junior Mentors by providing <b>targeted and specific pedagogical feedback</b> while building a supportive, collaborative, and social community
+                            </li>
+                            <li>
+                                Created <b>walkthrough videos</b> for past exam questions and worksheet problems
+                                <ul class="sub-course-list">
+                                    <li>
+                                        <a href="pedagogy.html" target="_blank">
+                                            Refer to my <u>pedagogy section</u> for all content I've created as a CSM mentor</u><br>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
                         <p class="stack">
-                            Python | Scheme | SQL
+                            Python | SQL | LATEX
                         </p>
                     </div>
                 </div>
                 <div class="experience__grid">
                     <div class="experience__card">
                         <div class="experience__image__container">
-                            <img class="experience__image__img" src="images/cs61a.png">
+                            <img class="experience__image__img" src="images/cdss.png">
                         </div>
                         <div class="experience__content">
                             <div class="experience__company__info">
                                 <div class="experience__title">
-                                    <h4>CS61A Academic Intern</h4>
-                                    <p class="experience__date">August 2022 - Dec 2022</p>
+                                    <h3>Academic Intern for CS 61A, CS 61BL, DATA C8</h3>
+                                    <p class="experience__date">Jan 2022 - Dec 2022</p>
                                 </div>
                                 <p class="experience__company__name">University of California, Berkeley</p>
                             </div>
-                            <p class="experience__description">
-                                • Provided 30+ students with personalized guidance and academic support for weekly lab sections in the first and largest undergraduate lower division CS course: 
-                                CS61A (The Structure and Interpretation of Computer Programs)
-                            </p>
-                            <p class="experience__description">
-                                • Taught topics including object-oriented programming, higher order function, environment diagrams, time complexity,
-                                recursion, trees, tree recursion, iterators & generators, inheritance, efficiency, scheme, SQL
-                            </p>
+                            <ul class="course-list">
+                                <li>
+                                    Provided 30+ students with personalized guidance and academic support for weekly lab sections in the <b>3 largest</b> undergraduate lower division CS/DS courses: 
+                                    CS 61A, CS61BL, DATA C8 
+                                    <ul class="sub-course-list">
+                                        <li>
+                                            CS 61A (The Structure and Interpretation of Computer Programs): Aug 2022 - Dec 2022              
+                                        </li>
+                                        <li>
+                                            CS 61BL (Data Structures & Algorithms): Jun 2022 - Aug 2022              
+                                        </li>
+                                        <li>
+                                            DATA C8 (Foundations of Data Science): Jan 2022 - May 2022              
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    CS 61A: Taught topics including Python, object-oriented programming, higher order functions, environment diagrams, linked lists, time complexity,
+                                    recursion, trees, tree recursion, iterators & generators, inheritance, efficiency, Scheme, SQL
+                                </li>
+                                <li>
+                                    CS 61BL: Taught topics including object-oriented programming, data structures, version control, time complexity,
+                                    graph traversal, and sorting algorithms
+                                </li>
+                                <li>
+                                    DATA C8: Taught topics including table manipulation and creations, conditionals, sampling, A/B Testing, linear regression, least squares, classifiers, etc.
+                                </li>
+                            </ul>
                             <p class="stack">
-                                Python | Scheme | SQL
-                            </p>
-                        </div>
-                    </div>
-                <div class="experience__grid">
-                    <div class="experience__card">
-                        <div class="experience__image__container">
-                            <img class="experience__image__img" src="images/cs61b.png">
-                        </div>
-                        <div class="experience__content">
-                            <div class="experience__company__info">
-                                <div class="experience__title">
-                                    <h4>CS61B(L) Academic Intern</h4>
-                                    <p class="experience__date">June 2022 - Aug 2022</p>
-                                </div>
-                                <p class="experience__company__name">University of California, Berkeley</p>
-                            </div>
-                            <p class="experience__description">
-                                • Provided 30+ students with personalized guidance and academic support for daily lab sections in 
-                                CS61BL (Data Structures and Algorithms)
-                            </p>
-                            <p class="experience__description">
-                                • Taught topics including object-oriented programming, data structures, version control, time complexity,
-                                graph traversal, and sorting algorithms
-                            </p>
-                            <p class="stack">
-                                Java
-                            </p>
-                        </div>
-                    </div>
-                    <div class="experience__card">
-                        <div class="experience__image__container">
-                            <img class="experience__image__img" src="images/data8.png">
-                        </div>
-                        <div class="experience__content">
-                            <div class="experience__company__info">
-                                <div class="experience__title">
-                                    <h4>Data 8 Academic Intern</h4>
-                                    <p class="experience__date">January 2022 - June 2022</p>
-                                </div>
-                                <p class="experience__company__name">University of California, Berkeley</p>
-                            </div>
-                            <p class="experience__description">
-                                • Provided 40+ students with personalized guidance and academic support for weekly lab sections in Data 8 (Foundations of Data Science)
-                            </p>
-                            <p class="experience__description">
-                                • Taught topics including table manipulation and creations, conditionals, sampling, A/B Testing, linear regression, least squares, classifiers, etc.
-                            </p>
-                            <p class="stack">
-                                Python | NumPy | Jupyter Notebook
+                                Python | Java | NumPy | Scheme | SQL
                             </p>
                         </div>
                     </div>
@@ -403,9 +431,9 @@
                             </div>
                             <ul class="course-list">
                                 <li>
-                                    Activities: Undergraduate Course Staff, Association of Women in EE&CS (AWE), Computer Science Mentors (CSM), DataGood, Data Science Society
+                                    <b>Activities:</b> Undergraduate Course Staff, Association of Women in EE&CS (AWE), Computer Science Mentors (CSM), DataGood, Data Science Society
                                 </li>
-                                <li>Relevant Coursework:
+                                <li><b>Relevant Coursework:</b>
                                     <ul class="sub-course-list">
                                         <li>CS 188: Introduction to Artificial Intelligence</li>
                                         <li>CS 169A: Introduction to Software Engineering</li>        
@@ -440,7 +468,7 @@
                             </div>
                             <p class="experience__description">
                                 <ul class="course-list">
-                                    <li>Relevant Coursework:
+                                    <li><b>Relevant Coursework:</b>
                                         <ul class="sub-course-list">
                                             <li>COMSC-260: Assembly Language Programming/Computer Organization (Summer 2021)</li>
                                             <li>MATH-193: Analytic Geometry and Calculus II (Summer 2021)</li>
@@ -465,7 +493,7 @@
                                 </div>
                             </div>
                             <ul class="course-list">
-                                <li>Relevant Coursework:
+                                <li><b>Relevant Coursework:</b>
                                     <ul class="sub-course-list">
                                         <li>AP Computer Science A</li>
                                         <li>AP Calculus BC</li>
@@ -474,7 +502,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    Activities: Key Club, Chamber Orchestra, National Honor Society, California Scholarship Federation, UNICEF, Red Cross, Tri-Valley Youth Music Ensemble
+                                    <b>Activities:</b> Key Club, Chamber Orchestra, National Honor Society, California Scholarship Federation, UNICEF, Red Cross, Tri-Valley Youth Music Ensemble
                                 </li>
                             </ul>
                         </div>

@@ -455,7 +455,7 @@ main {
 
 .experience__company__name {
     font-weight: bold;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .experience__company__info {
@@ -468,7 +468,7 @@ main {
 }
 
 .experience__date {
-    font-size: 14px;
+    font-size: 17px;
     color: var(--clr-project-stack);
 }
 
@@ -487,13 +487,13 @@ main {
 
 .experience__description {
     text-align: left;
-    font-size: 12px;
+    font-size: 17px;
 }
 
 .stack {
     padding-top: 10px;
     text-align: left;
-    font-size: 13px;
+    font-size: 15px;
     color: var(--clr-project-stack);
 }
 
