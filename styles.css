@@ -155,21 +155,37 @@ a {
   Buttons and Links
 ===================*/
 
-.extraLink {
-    color: var(--clr-fg);
-    padding: 0 0 0.3e, 0;
-    position: relative;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 20px;
-    display: inline-block;
-    flex-direction: column;
-    display: flex;
-    align-items: center;
+
+.paragraph {
+    text-align: center;
+    font-size: 20px;
 }
 
-.extraLink:hover {
-    color: var(--clr-primary);
+.regLink {
+    color: var(--clr-hovered-link);
+    position: relative;
+    padding-bottom: 0.3em;
+}
+
+.regLink:hover {
+    text-decoration: underline;
+    transition: color 0.3s ease-in;
+}
+
+.reglink::before {
+    content: "";
+    display: inline;
+    width: 0%;
+    height: 0.2em;
+    position: absolute;
+    bottom: 0;
+    background-color: var(--clr-gf-alt);
+    transform: scaleX(0);
+    transition: transform 0.3s ease-in-out;
+}
+
+.regLink:hover::before {
+    transform: scaleX(1);
 }
 
 .link {

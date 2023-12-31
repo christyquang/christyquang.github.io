@@ -32,13 +32,9 @@
 }
 
 .contact-list a:hover {
-    text-decoration: none; /* Remove underline on hover */
-    font-weight: bold; /* Change the font weight on hover */
+    font-weight: bold; 
 }
 
-.contact-list a .underline {
-    text-decoration: underline;
-}
 
 /* form {
     margin: 0 0 2em 0;
