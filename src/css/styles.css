@@ -151,15 +151,14 @@ a {
     }
 }
 
-/*==================
-  Buttons and Links
-===================*/
-
-
 .paragraph {
     text-align: center;
     font-size: 20px;
 }
+
+/*==================
+  Buttons and Links
+===================*/
 
 .regLink {
     color: var(--clr-hovered-link);
@@ -400,6 +399,25 @@ main {
     border-radius: 50%;
     box-shadow: 0px 0px 2px 5px #a3ccce7a;
 }
+
+.imagecaption {
+    display: flex;
+    justify-content: center;
+}
+
+.rectangle-box {
+    width: 280px;
+    height: 400px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px; /* Adjust the border-radius to control the roundness of the edges */
+    box-shadow: 0px 0px 2px 5px #a3ccce7a;
+}
+
+.rectangle-box:hover {
+    box-shadow: var(--darker-shadow--card); /* Apply the darker shadow on hover */
+}
+
 
 .about__labels {
     animation: fadeInLeft 1.2s linear forwards;
