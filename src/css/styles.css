@@ -469,8 +469,8 @@ main {
     display: flex; /* Align images horizontally if necessary */
     justify-content: center; /* Center images horizontally */
     align-items: center; /* Center images vertically */
-    width: 170px; /* Set a fixed width for image containers */
-    height: 170px; /* Set a fixed height for image containers */
+    width: 350px; /* Set a fixed width for image containers */
+    height: 350px; /* Set a fixed height for image containers */
     overflow: hidden; /* Hide any overflow */
     margin-right: 20px; /* Add some spacing between image containers */
 }
