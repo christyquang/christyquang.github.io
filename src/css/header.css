@@ -14,16 +14,17 @@ header {
     padding: 0 15px;
     z-index: 2;
     border-bottom: 1px solid darkcyan;
+    background-color: rgba(0, 139, 139, 0.26);
 }
 
 #logo {
     display: flex;
     align-items: center;
-    margin-right: 10px; /* Adjust the margin as needed */
+    margin-right: 10px; 
 }
 
 .header-logo {
-    margin: 0; /* Remove the margin-left property */
+    margin: 0; 
 }
 
 .extraLink {
