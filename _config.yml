@@ -281,7 +281,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["reflections", "opinions", "advice", "design", "travel", "random"] # these tags will be displayed on the front page of your blog
+display_tags: ["advice", "opinions", "reflections", "design", "travel", "random"] # these tags will be displayed on the front page of your blog
 display_categories: ["posts"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
