@@ -2,44 +2,65 @@
 layout: post
 title: things i wish i knew before visiting japan
 date: 2024-05-14 11:59:00-0400
-description: an example of a blog post with table of contents
+description: essentials you should know as a first time visitor to japan
 tags: travel advice opinions
 categories: posts
 giscus_comments: false
 related_posts: false
 toc:
-  beginning: true
+  sidebar: left
 ---
 
-This post shows how to add a table of contents in the beginning of the post.
+I'm currently in Japan while I'm drafting this post, unable to sleep because I randomly woke up at 2:30 AM and decided to work on this. This was my first time visiting Japan and the first international trip I've taken as a *competent* human being (aka not a kid). These are the things I wish I knew to make the travel process more seamless and the trip more fun — please don't suffer like I did.
 
-## Adding a Table of Contents
+<hr>
 
-To add a table of contents to a post, simply add
+## Essentials
 
-```yml
-toc:
-  beginning: true
-```
+sorry this is a work in progress that i hope to wrap up on my flight, i have to add SO MANY more things
 
-to the front matter of the post. The table of contents will be automatically generated from the headings in the post.
+<br>
 
-### Example of Sub-Heading 1
+### Prior to Trip
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+- idk call the bank and ask them to not block your cards because otherwise, they think there’s a fraud and then you won't be able to use your cards
+> Suica card is used for all the transit systems in Japan. Usually it’s a physical card but there’s an IC chip shortage so they aren’t giving them out to visitors as much. There’s a welcome Suica card but also not easily available anymore because of chip shortage. 
+- Add Suica (or PASMOS) to your Apple Wallet
+  -  Transit
+  - You add money thru Apple wallet
+  - HAVE A MASTERCARD ON YOUR APPLE WALLET
+    - only some Visa cards are accepted but Mastercard is guaranteed (call bank ahead to not block it)
+  - The Suica card can be used for purchases too at some stores (mainly the convenience stores in my experience)
+  - So much easier to tap in and out of transit systems instead of having to buy paper tickets every time
+- lmfao plan your trip in advance
+  1. what cities do you want to visit
+  2. proceed to book hotels there
+  3. search at what activities to do, what places to eat
 
-### Example of another Sub-Heading 1
+<br>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+### Getting from Narita Airport to Tokyo
 
-## Table of Contents Options
+- took the train but was boomer so my parents and I sat at the reserved seat section, got checked by the train ppl so we had to move to another section, but it was also reserved seats?
+- basically each train is split into reserved (more expensive) vs non reserved seating
+  - non reserved seating is at the back of the train, usually cars 1-5 
+  - it'll say on the train car and on signs which car is reserved seating or not
 
-If you want to learn more about how to customize the table of contents, you can check the [jekyll-toc](https://github.com/toshimaru/jekyll-toc) repository.
+<br>
 
-### Example of Sub-Heading 2
+### Getting from Tokyo to Osaka
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+- took bullet train
+- Have to wait in line to get physical tickets
+- Don’t accept Suica for some reason (unless I’m incompetent), used Visa card instead
 
-### Example of another Sub-Heading 2
+<br>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+### My Itinerary
+
+narita --> tokyo (1 day) --> osaka (1 day) --> kyoto (2 days) --> nara (1 day) --> shinjuku/tokyo (1 day) --> narita
+
+### tldr
+
+don't travel with your parents.
+
