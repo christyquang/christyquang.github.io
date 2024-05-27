@@ -38,28 +38,35 @@ My dad randomly called me one day in the middle of April saying that he needed t
 
 1. Make sure your cards are usable abroad.
 2. Add the transit cards (Suica, PASMOS, ICOCA) to your Apple Wallet (if you have an Apple device).
-  - Click the `+` sign to add a card
-  - Click `Transit Card`
-  - Under the "Japan" section, click your preferred option (I used Suica)
-  - Adding money is through the cards on your Apple Wallet
-    - Make sure you have a Mastercard on there
+
+- Click the `+` sign to add a card
+- Click `Transit Card`
+- Under the "Japan" section, click your preferred option (I used Suica)
+- Adding money is through the cards on your Apple Wallet
+  - Make sure you have a Mastercard on there
+
 3. Plan your trip in advance, especially places that are a "must-visit".
-  - Make reservations for popular restaurants
+
+- Make reservations for popular restaurants
+
 4. ZipAir
-  - Read the fine details regarding baggage weights
-  - Bring your own food on the flight (it doesn't add to your carry-on weight)
-  - Have activities ready for the flight (ex: download movies) because there isn't an entertainment system provided
+
+- Read the fine details regarding baggage weights
+- Bring your own food on the flight (it doesn't add to your carry-on weight)
+- Have activities ready for the flight (ex: download movies) because there isn't an entertainment system provided
 
 Since you're in a foreign country, make sure that you'll be able to use your cards. Call the bank beforehand and ask them to not block your cards because otherwise, the detectors think there’s a fraud and then you won't be able to use your cards.
 
-On your Apple Wallet, make sure that you have a Mastercard on there. Those cards are guaranteed to work to add money to your transportation cards whereas only some Visa cards have proven to work. 
+On your Apple Wallet, make sure that you have a Mastercard on there. Those cards are guaranteed to work to add money to your transportation cards whereas only some Visa cards have proven to work.
 
-  > The transit systems cards in Japan (Suica/PASMOS/ICOCA) are used to pay for the subway stations and buses. Generally, it’s a physical card but there’s an IC chip shortage so they aren’t giving them out to visitors as much (a "Welcome Suica Card" exists but isn't easily available anymore). The card can also be used for purchases too at some stores (in my experience, mainly convenience stores). Get this card instead of buying paper tickets for every ride.
+> The transit systems cards in Japan (Suica/PASMOS/ICOCA) are used to pay for the subway stations and buses. Generally, it’s a physical card but there’s an IC chip shortage so they aren’t giving them out to visitors as much (a "Welcome Suica Card" exists but isn't easily available anymore). The card can also be used for purchases too at some stores (in my experience, mainly convenience stores). Get this card instead of buying paper tickets for every ride.
 
 **HIGHLY, HIGHLY RECOMMEND** planning the majority of your trip in advance, especially factoring in transportation.
 
 1. What cities do you want to visit?
-  - Book hotels at strategic locations 
+
+- Book hotels at strategic locations
+
 2. What activities do you want to do/visit? What places do you want to eat at?
 
 I didn't plan any of our itinerary until the night before each day so it was really tiring. Additionally, the lack of planning left us unable to see all the places we wanted to visit or try popular restaurants (most require a reservation). Navigating through the public transit system was also a struggle because it's hard to initially get a grasp of due to the magnitude and language barrier.
@@ -73,7 +80,6 @@ All I knew before arriving in Japan was that it'd take a little over an hour to 
 <u>What I Did:</u>
 
 After getting our Suica cards set up, we took the train to Tokyo (I think it was the Narita Express) but we just tapped through the scanners and didn't buy physical paper tickets. We sat at a random section which ended up being the "Reserved Seats" section — this area is checked by the train workers who told us to move to another section (so embarrassing).
-
 
 <u>What I Recommend You Do:</u>
 
@@ -93,12 +99,13 @@ When traveling back to the airport, I decided to take the regular subway system 
 Traveling from Tokyo to the Osaka area is fairly common and the easiest way is by taking a bullet train (Shinkansen). The ride is a little over 3 hours which is extremely fast considering the amount of miles covered. The train is comfortable and there are bathrooms onboard, as well as (adequate) Wi-Fi.
 
 To ride on this train:
+
 - Wait in the really long line to get physical tickets with an attendant
   - Mobile Suica cards don't work at the machines because those only accept physical cards
 - Payment can be through your physical cards like Visa (not Suica)
 - You'll receive a physical ticket that you'll insert through the gate (which will be ejected out) in addition to tapping your Suica card against the scanner
 
-> DO NOT lose your physical ticket. If you do, you'll need to pay the cost of that ticket again (~$94). 
+> DO NOT lose your physical ticket. If you do, you'll need to pay the cost of that ticket again (~$94).
 
 I lost my physical ticket near my seat and talked to an attendant at the counter. The company's policy is that everyone has to pay the original cost on top of what was previously paid if the workers at both train stations are unable to find your physical ticket.
 
@@ -112,18 +119,19 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
 
 `*` = transit day
 
-#### Tokyo *
+#### Tokyo \*
 
 **Duration:** 3 hours
 
 [add pics and more detail]
+
 - Dinner @ Ichiran Ramen
 - tower
 - 7-11
 
 <br>
 
-#### Osaka *
+#### Osaka \*
 
 **Duration:** Late afternoon + evening
 
@@ -140,6 +148,7 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
 **Duration:** 2 days
 
 <u>Day 1</u>
+
 - Brunch @ A Happy Pancake Kyoto
 - Nishiki Market
 - Maruyama Park, Yuzenen Garden
@@ -147,6 +156,7 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
 - [look back]
 
 <u>Day 2</u>
+
 - Lunch @ Kijurou
 - Arashiyama Miffy Sakura Kitchen
 - Arashiyama area (temple, garden, park, bamboo forest, bridge)
@@ -158,6 +168,7 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
 #### Nara
 
 **Duration:** 1 day
+
 - Breakfast @ Horiuchi-kajitsuen
 - Mochi men oogabooga-ing
 - Nara Park
@@ -167,9 +178,10 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
 
 <br>
 
-#### Shinjuku City *
+#### Shinjuku City \*
 
 **Duration:** Late afternoon + evening
+
 - Hair cut + dye
 - Daiso
 - Some mall
