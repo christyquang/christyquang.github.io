@@ -38,19 +38,14 @@ My dad randomly called me one day in the middle of April saying that he needed t
 
 1. Make sure your cards are usable abroad.
 2. Add the transit cards (Suica, PASMOS, ICOCA) to your Apple Wallet (if you have an Apple device).
-
 - Click the `+` sign to add a card
 - Click `Transit Card`
 - Under the "Japan" section, click your preferred option (I used Suica)
 - Adding money is through the cards on your Apple Wallet
   - Make sure you have a Mastercard on there
-
 3. Plan your trip in advance, especially places that are a "must-visit".
-
 - Make reservations for popular restaurants
-
 4. ZipAir
-
 - Read the fine details regarding baggage weights
 - Bring your own food on the flight (it doesn't add to your carry-on weight)
 - Have activities ready for the flight (ex: download movies) because there isn't an entertainment system provided
@@ -64,9 +59,7 @@ On your Apple Wallet, make sure that you have a Mastercard on there. Those cards
 **HIGHLY, HIGHLY RECOMMEND** planning the majority of your trip in advance, especially factoring in transportation.
 
 1. What cities do you want to visit?
-
-- Book hotels at strategic locations
-
+- Book hotels at strategic locations (ex: live in Osaka if you want to visit Kyoto and Nara)
 2. What activities do you want to do/visit? What places do you want to eat at?
 
 I didn't plan any of our itinerary until the night before each day so it was really tiring. Additionally, the lack of planning left us unable to see all the places we wanted to visit or try popular restaurants (most require a reservation). Navigating through the public transit system was also a struggle because it's hard to initially get a grasp of due to the magnitude and language barrier.
@@ -198,7 +191,7 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
 5. Why are there SO MANY PEOPLE at the subway stations and everywhere in general? Where did they spawn from...
 6. People use umbrellas for the smallest amounts of rain. I'm from California where people freak out over rain and even I think the umbrella usage is ridiculous — it was literally for DRIZZLE.
 7. Enter the bus through the middle without paying but when leaving, exit through the front entrance after paying via tapping your Suica card.
-8. Japan is not very accessibility-friendly. Lugging suitcases is terrible.
+8. Japan is not very accessibility-friendly. Lugging suitcases across flights of stairs is terrible.
 
 <br>
 
