@@ -278,7 +278,7 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
 - Nakatanidou - mochi men oogabooga-ing
 - Nara Park ft deer
 - Lunch @ Kamaiki Udon
-- Isu-en Garden, Todaiji Nigatsu-do, 
+- Isu-en Garden, Todaiji Nigatsu-do,
 - Dinner @ McDonalds
 
 <div class="row mt-3">
