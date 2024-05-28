@@ -163,7 +163,7 @@ Since this was a travel day where we went from Tokyo to Osaka, we only had a few
 
 The bullet train was a bit of a struggle and after arriving at Shin-Osaka Station, we were famished and chose a random restaurant to eat at. I forgot the name of it but we all ordered this collagen chicken noodle soup. I'm pretty sure my parents got rizzed up by the word "collagen". The noodle soup was actually delicious but the bowl was TINY and it was so expensive. `Rating: 6/10`
 
-The jiggly Japanese cheesecake has grown significantly in popularity so it was a must-try for me, especially since my mom loves cheesecake. We had purchased a small cheesecake pastry from 7-11 the day prior and consumed it on the bullet train — it was DELICIOUS. Rikuro's Namba Main Branch had a huge line outside of it but the wait was very short. The cheesecake was pretty cheap ($8-9) and tasted good, though the 7-11 one might be tastier... My picture is quite disappointing though because the heat and condensation from the box made the top of the cheesecake flaccid, though it was still a little jiggly! `Rating: 8.5/10`
+The jiggly Japanese cheesecake has grown significantly in popularity so it was a must-try for me, especially since my mom loves cheesecake. We had purchased a small cheesecake pastry from 7-11 the day prior and consumed it on the bullet train — it was DELICIOUS. Rikuro's Namba Main Branch had a huge line outside of it but the wait was very short. The cheesecake was pretty cheap ($8-9) and tasted good, though the 7-11 one might be tastier... My picture is quite disappointing though because the heat and condensation from the box made the top of the cheesecake flaccid, but luckily it was still a little bit jiggly! `Rating: 8.5/10`
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -197,17 +197,76 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
 
 - Brunch @ A Happy Pancake Kyoto
 - Nishiki Market
-- Maruyama Park, Yuzenen Garden
-- Dinner @ Katsu place
-- [look back]
+- Kodaiji Temple, Maruyama Park, Yuzenen Garden
+- Dinner @ Gyukatshu Kyoto Katsugyu - Kyoto Station
+- Uniqlo shopping
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/happypancake.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/mochistrawb.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/firsttemples.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/gyukatsu.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 <u>Day 2</u>
 
 - Lunch @ Kijurou
-- Arashiyama Miffy Sakura Kitchen
-- Arashiyama area (temple, garden, park, bamboo forest, bridge)
-- Dessert places
+- Arashiyama area (Tenryu-ji temple, Shishiku garden, Arashiyama Park, Arashiyama bamboo forest, Togetsukyo Bridge)
+- Strolling through Arashiyama and eating small desserts
 - Dinner @ Genki
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/kijurou.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/garden.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/bamboo.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/river.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/cremia.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/beers.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/genki.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/prered.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/redselfie.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 <br>
 
@@ -216,11 +275,56 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
 **Duration:** 1 day
 
 - Breakfast @ Horiuchi-kajitsuen
-- Mochi men oogabooga-ing
-- Nara Park
+- Nakatanidou - mochi men oogabooga-ing
+- Nara Park ft deer
 - Lunch @ Kamaiki Udon
-- Isu-en Garden, Todaiji Nigatsu-do
-- [look back]
+- Isu-en Garden, Todaiji Nigatsu-do, 
+- Dinner @ McDonalds
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/strawbsando.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/fruitsando.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/saladsando.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/mochi.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/kamaiki.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/nara.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/deer.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/temple.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/mcd.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/fries.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 <br>
 
