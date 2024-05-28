@@ -38,14 +38,19 @@ My dad randomly called me one day in the middle of April saying that he needed t
 
 1. Make sure your cards are usable abroad.
 2. Add the transit cards (Suica, PASMOS, ICOCA) to your Apple Wallet (if you have an Apple device).
+
 - Click the `+` sign to add a card
 - Click `Transit Card`
 - Under the "Japan" section, click your preferred option (I used Suica)
 - Adding money is through the cards on your Apple Wallet
   - Make sure you have a Mastercard on there
+
 3. Plan your trip in advance, especially places that are a "must-visit".
+
 - Make reservations for popular restaurants
+
 4. ZipAir
+
 - Read the fine details regarding baggage weights
 - Bring your own food on the flight (it doesn't add to your carry-on weight)
 - Have activities ready for the flight (ex: download movies) because there isn't an entertainment system provided
@@ -59,7 +64,9 @@ On your Apple Wallet, make sure that you have a Mastercard on there. Those cards
 **HIGHLY, HIGHLY RECOMMEND** planning the majority of your trip in advance, especially factoring in transportation.
 
 1. What cities do you want to visit?
+
 - Book hotels at strategic locations (ex: live in Osaka if you want to visit Kyoto and Nara)
+
 2. What activities do you want to do/visit? What places do you want to eat at?
 
 I didn't plan any of our itinerary until the night before each day so it was really tiring. Additionally, the lack of planning left us unable to see all the places we wanted to visit or try popular restaurants (most require a reservation). Navigating through the public transit system was also a struggle because it's hard to initially get a grasp of due to the magnitude and language barrier.
@@ -223,21 +230,21 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
 
 - Breakfast & Lunch: Various 7/11 pastries + milk
 - Bullet train from Osaka to Shinjuku City
-- Hair cut + dye @ youres hair 新宿WEST店 
+- Hair cut + dye @ youres hair 新宿WEST店
 - Dinner @ Fūunji
 - Daiso + some mall in Shinjuku City
 
-Since this was another travel day, we spent very little time  exploring Shinjuku City. The main priority on the agenda was getting hair cuts since that was what my mom wanted to do the most. I had previously searched online for hair salons and almost all had a reservation/appointment system.
+Since this was another travel day, we spent very little time exploring Shinjuku City. The main priority on the agenda was getting hair cuts since that was what my mom wanted to do the most. I had previously searched online for hair salons and almost all had a reservation/appointment system.
 
-Turns out, hair salons prefer customers to schedule appointments (even if it's an hour before). We had walked into a salon and they were fully booked, so I found another salon called "youres hair 新宿WEST店". I hastily made appointments for my mother and I literally an hour before our actual slots. 
+Turns out, hair salons prefer customers to schedule appointments (even if it's an hour before). We had walked into a salon and they were fully booked, so I found another salon called "youres hair 新宿WEST店". I hastily made appointments for my mother and I literally an hour before our actual slots.
 
-This was the first time I had professional hair treatment in a salon, in addition to dyeing my hair (rip to my hair virginity). Typically, my mom made my aunt or random acquaintances cut my hair on an old and smelly porch in my uncle's backyard. I had quite the opposite experience since the salon itself was very clean and sophisticated. My hair was EXTREMELY long since I hadn't had a haircut for over a year. 
+This was the first time I had professional hair treatment in a salon, in addition to dyeing my hair (rip to my hair virginity). Typically, my mom made my aunt or random acquaintances cut my hair on an old and smelly porch in my uncle's backyard. I had quite the opposite experience since the salon itself was very clean and sophisticated. My hair was EXTREMELY long since I hadn't had a haircut for over a year.
 
-Due to the language barrier, I communicated with my hair stylist via Google Translate which honestly wasn't too bad. Since I was so inexperienced in the hair world, I literally didn't understand some of the phrases he was using and told him to just "do whatever you think is best". 
+Due to the language barrier, I communicated with my hair stylist via Google Translate which honestly wasn't too bad. Since I was so inexperienced in the hair world, I literally didn't understand some of the phrases he was using and told him to just "do whatever you think is best".
 
 We had shown up so late in the afternoon (~5 PM) so he informed me that I wouldn't be able to get highlights or bleach my hair. I ended up coloring my hair to a darker brown in addition to a hair cut.
 
-First, I got my hair slightly wet for the coloring process. Afterwards, he applied the dye onto my hair and I ended up looking like a seran wrap conehead. I had to wait a bit for the dye to color my hair and the salon provided tablets with Amazon Prime and drinks (tea) for their customers to consume. I played some fruit game on my Huawei tablet :D. 
+First, I got my hair slightly wet for the coloring process. Afterwards, he applied the dye onto my hair and I ended up looking like a seran wrap conehead. I had to wait a bit for the dye to color my hair and the salon provided tablets with Amazon Prime and drinks (tea) for their customers to consume. I played some fruit game on my Huawei tablet :D.
 
 Once the dye settled onto my hair, my stylist washed my hair and massaged my hair which was a nice experience — I almost fell asleep. My initial reaction after seeing my colored hair was that I looked weird. He trimmed my hair but I had to tell him a few times that I wanted to chop off a bunch of inches because I was paying so much money for this. He gave me surface layers and curled my hair at the end.
 
@@ -270,7 +277,7 @@ In addition, ZipAir requires passengers to arrive one hour before departure at t
 
 All in all, that train ride was extremely stressful because if I had missed my flight, I wouldn't be able to go to Seattle the next day since ZipAir flights only operate once a day.
 
-Once we arrived at our gate, we wanted to use up the remaining coins we had at an ice cream vending machine. The ice cream bar depicted below was the most expensive one purchased whilst also being the smallest. I shared the bar with my parents since it was the last one but I had completely forgotten that my dad was sick. As a result, I got a sore throat on the flight and ended up falling extremely ill after the flight (in fact, I'm still sick more than a week later as I'm writing this). 
+Once we arrived at our gate, we wanted to use up the remaining coins we had at an ice cream vending machine. The ice cream bar depicted below was the most expensive one purchased whilst also being the smallest. I shared the bar with my parents since it was the last one but I had completely forgotten that my dad was sick. As a result, I got a sore throat on the flight and ended up falling extremely ill after the flight (in fact, I'm still sick more than a week later as I'm writing this).
 
 During takeoff, I noticed that the plane's wing was a little suspicious and unstable. I'm no expert on aircraft but that doesn't look very safe... perks of choosing cheap flights! Usually, I welcome death but I had never feared my death as much as I did on that flight because I didn't want my parents to pass away.
 
@@ -305,6 +312,6 @@ I had read on Reddit that the 7-11 egg salad sandwiches were delicious so obviou
 
 ### TLDR
 
-Traveling with parents is difficult and don't go on a vacation that you haven't planned for right after finals and before another trip. Also, don't share food with sick people (but the food is FIRE there). 
+Traveling with parents is difficult and don't go on a vacation that you haven't planned for right after finals and before another trip. Also, don't share food with sick people (but the food is FIRE there).
 
 Japan has a bit of a ... stain in my perspective so I'll be needing some time away from this country. It's not them, it's me.
