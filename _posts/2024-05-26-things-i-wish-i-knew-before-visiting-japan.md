@@ -108,7 +108,7 @@ Travelers have the option to pay for "reserved" (more expensive but guaranteed s
 
 ### Cities Visited
 
-Here are my reviews and reflections for the cities I visited, attractions I saw, and restaurants/food I ate. Feel free to contact me to see the (messy) spreadsheet itinerary I made (for visual learners).
+Here are my reviews and reflections for the cities I visited, attractions I saw, and restaurants/food I ate. Feel free to contact me to see the (messy) spreadsheet itinerary I made (for visual learners), or check out my Beli for more detailed food reviews. Click on each picture to see a zoomed in version as well!
 
 `*` = transit day
 
@@ -116,11 +116,28 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
 
 **Duration:** 3 hours
 
-[add pics and more detail]
+- Dinner @ Ichiran Asakusa
+- Discovery of Japan's 7-11 stores
+- Tokyo Skytree view from hotel
 
-- Dinner @ Ichiran Ramen
-- tower
-- 7-11
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/ichiran.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="caption">
+    Special ramen set @ Ichiran Asakusa
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/tokyoskytree.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="caption">
+    Tokyo Skytree
+    </div>
+</div>
+
+Ichiran Asakusa is a popular ramen restaurant that features solo dining via sitting in a private setting at the bar counter. The quantity was great, especially for the price and there were lots of people lined up for this restaurant. `Rating: 8/10`
+
+After dinner, we walked across Sumida River and saw views of the Tokyo Skytree. We entered our first 7-11 and bought ice cream cones, as well as various breakfast items there.
 
 <br>
 
@@ -128,11 +145,40 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
 
 **Duration:** Late afternoon + evening
 
-- Lunch @ Shin-Osaka Station's terrible noodle shop
-- Rikuro's Namba Main Branch
+- Breakfast: 7/11 pastries + milk
+- Lunch @ one of Shin-Osaka Station's terrible restaurants
+- Cheesecake from Rikuro's Namba Main Branch
 - Dontonbori
 - Tsutenkaku Tower
 - Dinner @ Kura Sushi Shinsekai Tsutenkaku (terrible)
+
+Since this was a travel day where we went from Tokyo to Osaka, we only had a few hours to spend exploring Osaka. When going to the station, it had started raining as we were lugging our suitcases across the streets. A big culture shock was seeing how EVERYONE uses umbrellas, even for the slightest bit of rain. We got a bunch of side-eyes since we didn't bring umbrellas and didn't want to purchase one.
+
+The bullet train was a bit of a struggle and after arriving at Shin-Osaka Station, we were famished and chose a random restaurant to eat at. I forgot the name of it but we all ordered this collagen chicken noodle soup. I'm pretty sure my parents got rizzed up by the word "collagen". The noodle soup was actually delicious but the bowl was TINY and it was so expensive. `Rating: 6/10`
+
+The jiggly Japanese cheesecake has grown significantly in popularity so it was a must-try for me, especially since my mom loves cheesecake. We had purchased a small cheesecake pastry from 7-11 the day prior and consumed it on the bullet train — it was DELICIOUS. Rikuro's Namba Main Branch had a huge line outside of it but the wait was very short. The cheesecake was pretty cheap ($8-9) and tasted good, though the 7-11 one might be tastier... My picture is quite disappointing though because the heat and condensation from the box made the top of the cheesecake flaccid, though it was still a little jiggly! `Rating: 8.5/10`
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/shinosakafood.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/cheesecake.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+We had some difficulty finding our hotel because I was directionally challenged and navigated us to the wrong hotel with a very similar name. After relaxing for a bit, we strolled through Dontonbori, an area famous for its various shops and foods. We were able to see the Tsutenkaku Tower while walking through.
+
+For some odd reason, search results told me that Kura Sushi was a good place to eat at. This information is incorrect — it's just a revolving sushi chain that when compared to U.S. prices is really good, but overall not the best quality and value in Japan. Unfortunately, this ended up being the only sushi we ate in Japan because my parents aren't the biggest fans of raw fish (PLS, why are we in Japan then?!). My mom struggled throughout this meal but my dad was a trooper and did pretty well. The game was quite lame though, we turned in ~23 plates but only received one prize. `Rating: 6/10`
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/tsutower.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/kurasushi.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 <br>
 
@@ -173,12 +219,74 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
 
 #### Shinjuku City \*
 
-**Duration:** Late afternoon + evening
+**Duration:** Late afternoon + evening, 1 hr the next day
 
-- Hair cut + dye
-- Daiso
-- Some mall
-- Dinner @ Fuunji
+- Breakfast & Lunch: Various 7/11 pastries + milk
+- Bullet train from Osaka to Shinjuku City
+- Hair cut + dye @ youres hair 新宿WEST店 
+- Dinner @ Fūunji
+- Daiso + some mall in Shinjuku City
+
+Since this was another travel day, we spent very little time  exploring Shinjuku City. The main priority on the agenda was getting hair cuts since that was what my mom wanted to do the most. I had previously searched online for hair salons and almost all had a reservation/appointment system.
+
+Turns out, hair salons prefer customers to schedule appointments (even if it's an hour before). We had walked into a salon and they were fully booked, so I found another salon called "youres hair 新宿WEST店". I hastily made appointments for my mother and I literally an hour before our actual slots. 
+
+This was the first time I had professional hair treatment in a salon, in addition to dyeing my hair (rip to my hair virginity). Typically, my mom made my aunt or random acquaintances cut my hair on an old and smelly porch in my uncle's backyard. I had quite the opposite experience since the salon itself was very clean and sophisticated. My hair was EXTREMELY long since I hadn't had a haircut for over a year. 
+
+Due to the language barrier, I communicated with my hair stylist via Google Translate which honestly wasn't too bad. Since I was so inexperienced in the hair world, I literally didn't understand some of the phrases he was using and told him to just "do whatever you think is best". 
+
+We had shown up so late in the afternoon (~5 PM) so he informed me that I wouldn't be able to get highlights or bleach my hair. I ended up coloring my hair to a darker brown in addition to a hair cut.
+
+First, I got my hair slightly wet for the coloring process. Afterwards, he applied the dye onto my hair and I ended up looking like a seran wrap conehead. I had to wait a bit for the dye to color my hair and the salon provided tablets with Amazon Prime and drinks (tea) for their customers to consume. I played some fruit game on my Huawei tablet :D. 
+
+Once the dye settled onto my hair, my stylist washed my hair and massaged my hair which was a nice experience — I almost fell asleep. My initial reaction after seeing my colored hair was that I looked weird. He trimmed my hair but I had to tell him a few times that I wanted to chop off a bunch of inches because I was paying so much money for this. He gave me surface layers and curled my hair at the end.
+
+I thought I looked REALLY WEIRD but my parents told me it looked good. In the meantime, my mom got a hair cut and perm which looked great on her. My dad was just happy because there was Wi-Fi while he was waiting for 2+ hours.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/reaction.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="caption">
+    My sister's reaction to my hair
+    </div>
+</div>
+
+Since the hair appointments took so long, we only had time for dinner. Fūunji is a popular dipping udon restaurant which had an ENORMOUS line. The seating is only at the counter and as you're eating, the line of people waiting is directly behind you, staring at your soul while eating. That part was a little uncomfortable but the udon was really good. `Rating: 8.5/10`
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/fuunji.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+Afterwards, my parents and I went to several 7-11 stores to buy food for our upcoming flight and search for the coveted 2% low-fat 7/11 milk carton. That was literally the only thing my dad kept raving about — how delicious that milk was. We went to four different 7-11's and unfortunately exited empty-handed. Perhaps, that milk carton is only available in Tokyo(?) or maybe it is so scrumptious that it sells out quickly...
+
+We had planned on spending our last day shopping but the hair appointment took so long that most stores were closed by then. As such, I planned on allocating 1.5 hours to shop before taking the subway to the airport. What a terrible idea...
+
+We briefly shopped at a Daiso but I literally could not locate the LOFT store in a mall. That wasted about 20 minutes and by then, it was nearing too close to the time we should depart for the airport. I decided to just navigate us to the airport but the station in Shinjuku City was especially confusing and for some reason, all of the subways we traveled on had random transfers/stops. The ride to the airport took almost four hours when it should have taken a little over one hour...
+
+In addition, ZipAir requires passengers to arrive one hour before departure at the latest and we were really close to that deadline. As we were rushing, my mom fell too ;-;
+
+All in all, that train ride was extremely stressful because if I had missed my flight, I wouldn't be able to go to Seattle the next day since ZipAir flights only operate once a day.
+
+Once we arrived at our gate, we wanted to use up the remaining coins we had at an ice cream vending machine. The ice cream bar depicted below was the most expensive one purchased whilst also being the smallest. I shared the bar with my parents since it was the last one but I had completely forgotten that my dad was sick. As a result, I got a sore throat on the flight and ended up falling extremely ill after the flight (in fact, I'm still sick more than a week later as I'm writing this). 
+
+During takeoff, I noticed that the plane's wing was a little suspicious and unstable. I'm no expert on aircraft but that doesn't look very safe... perks of choosing cheap flights! Usually, I welcome death but I had never feared my death as much as I did on that flight because I didn't want my parents to pass away.
+
+I had read on Reddit that the 7-11 egg salad sandwiches were delicious so obviously, I had to try one myself. I bought one for the flight back but unfortunately, it got squished.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/icecreambar.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/susplane.gif" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/eggsalad.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 <br>
 
@@ -197,4 +305,6 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
 
 ### TLDR
 
-Traveling with parents is difficult and don't go on a vacation where you haven't planned for right after finals and before another trip.
+Traveling with parents is difficult and don't go on a vacation that you haven't planned for right after finals and before another trip. Also, don't share food with sick people (but the food is FIRE there). 
+
+Japan has a bit of a ... stain in my perspective so I'll be needing some time away from this country. It's not them, it's me.
