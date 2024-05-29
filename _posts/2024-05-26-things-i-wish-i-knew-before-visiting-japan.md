@@ -38,19 +38,14 @@ My dad randomly called me one day in the middle of April saying that he needed t
 
 1. Make sure your cards are usable abroad.
 2. Add the transit cards (Suica, PASMOS, ICOCA) to your Apple Wallet (if you have an Apple device).
-
 - Click the `+` sign to add a card
 - Click `Transit Card`
 - Under the "Japan" section, click your preferred option (I used Suica)
 - Adding money is through the cards on your Apple Wallet
   - Make sure you have a Mastercard on there
-
 3. Plan your trip in advance, especially places that are a "must-visit".
-
 - Make reservations for popular restaurants
-
 4. ZipAir
-
 - Read the fine details regarding baggage weights
 - Bring your own food on the flight (it doesn't add to your carry-on weight)
 - Have activities ready for the flight (ex: download movies) because there isn't an entertainment system provided
@@ -64,9 +59,7 @@ On your Apple Wallet, make sure that you have a Mastercard on there. Those cards
 **HIGHLY, HIGHLY RECOMMEND** planning the majority of your trip in advance, especially factoring in transportation.
 
 1. What cities do you want to visit?
-
 - Book hotels at strategic locations (ex: live in Osaka if you want to visit Kyoto and Nara)
-
 2. What activities do you want to do/visit? What places do you want to eat at?
 
 I didn't plan any of our itinerary until the night before each day so it was really tiring. Additionally, the lack of planning left us unable to see all the places we wanted to visit or try popular restaurants (most require a reservation). Navigating through the public transit system was also a struggle because it's hard to initially get a grasp of due to the magnitude and language barrier.
@@ -131,18 +124,15 @@ Here are my reviews and reflections for the cities I visited, attractions I saw,
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/ichiran.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="caption">
-    Special ramen set @ Ichiran Asakusa
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/tokyoskytree.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="caption">
-    Tokyo Skytree
-    </div>
 </div>
 
 Ichiran Asakusa is a popular ramen restaurant that features solo dining via sitting in a private setting at the bar counter. The quantity was great, especially for the price and there were lots of people lined up for this restaurant. `Rating: 8/10`
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/tokyoskytree.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 After dinner, we walked across Sumida River and saw views of the Tokyo Skytree. We entered our first 7-11 and bought ice cream cones, as well as various breakfast items there.
 
@@ -176,12 +166,15 @@ The jiggly Japanese cheesecake has grown significantly in popularity so it was a
 
 We had some difficulty finding our hotel because I was directionally challenged and navigated us to the wrong hotel with a very similar name. After relaxing for a bit, we strolled through Dontonbori, an area famous for its various shops and foods. We were able to see the Tsutenkaku Tower while walking through.
 
-For some odd reason, search results told me that Kura Sushi was a good place to eat at. This information is incorrect — it's just a revolving sushi chain that when compared to U.S. prices is really good, but overall not the best quality and value in Japan. Unfortunately, this ended up being the only sushi we ate in Japan because my parents aren't the biggest fans of raw fish (PLS, why are we in Japan then?!). My mom struggled throughout this meal but my dad was a trooper and did pretty well. The game was quite lame though, we turned in ~23 plates but only received one prize. `Rating: 6/10`
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/tsutower.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+
+For some odd reason, search results told me that Kura Sushi was a good place to eat at. This information is incorrect — it's just a revolving sushi chain that when compared to U.S. prices is really good, but overall not the best quality and value in Japan. Unfortunately, this ended up being the only sushi we ate in Japan because my parents aren't the biggest fans of raw fish (PLS, why are we in Japan then?!). My mom struggled throughout this meal but my dad was a trooper and did pretty well. The game was quite lame though, we turned in ~23 plates but only received one prize. `Rating: 6/10`
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/kurasushi.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -201,6 +194,12 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
 - Dinner @ Gyukatshu Kyoto Katsugyu - Kyoto Station
 - Uniqlo shopping
 
+Growing up, my family rarely ate out and operated under a very minimalistic lifestyle. We literally would bring basically our entire kitchen when going on roadtrips so eating out is somewhat foreign to us. However, food is so cheap in Japan that it wasn’t that big of an impact to eat out for every meal.
+
+I found “A Happy Pancake” from one of my friends and we ate there for brunch. I’ve attempted making Japanese soufflé pancakes at home which were somewhat of a success, but these were the professional ones that I needed to try. The wait was a little long because of the line and the time the chefs took to make each dish with care. I ordered some matcha brown sugar pancake dish which was really good and just the right quantity because I hit my sugar quota at the end. `Rating: 8.5/10`
+
+Nishiki Market is a popular tourist attraction that is essentially a fish market with lots of shops and street food. Since we had just eaten, we didn’t really buy that many snacks but we did try these mochi strawberries since the strawberries rizzed me up. A little on the expensive side but the strawberries were SO GOOD.
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/happypancake.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -209,6 +208,10 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/mochistrawb.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+After the market, we visited Kodaiji Temple, Maruyama Park, and Yuzenen Garden. Honestly, I’m not the biggest temple fan because they ultimately are all essentially the same… but the history behind temples and shrines are quite interesting. Maruyama Park was quite big and we spent a lot of time there because my mom was tired and I needed to find a restaurant to go to for dinner.
+
+Gyukatsu Kyoto Katsugyu kept popping up and since my parents have never really tried chicken katsu before, we decided to go there. Turns out, this wasn’t a chicken katsu place but was instead a wagyu katsu restaurant. My parents hate raw meat so they were really worried but there ended up being a tiny stove where you can cook your meat prior to eating it. My parents LOVED this restaurant and the wait was pretty short considering the line. `Rating: 9/10`
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -219,6 +222,8 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
     </div>
 </div>
 
+We were on the way to the subway station when my mom spotted a Uniqlo. We ended up spending probably two hours there shopping, such low prices.
+
 <u>Day 2</u>
 
 - Lunch @ Kijurou
@@ -226,11 +231,19 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
 - Strolling through Arashiyama and eating small desserts
 - Dinner @ Genki
 
+We had already tried wagyu at the restaurant before but that wasn’t the real deal. We had zero reservations at restaurants but luckily, Kijurou doesn’t accept reservations and is located near the Arashiyama area we were planning on visiting. Side note: my dad kept pronouncing “wagyu” as “wag-niu” — “nit” in Cantonese stands for pee.
+
+We ordered the sirloin set with 150 grams of meat. My mom threw such a fit because she refused to eat the meat after finding out that there wasn’t a little stove like the restaurant we went to yesterday. She ended up asking a server to cook the meat well-done… it was quite embarrassing. Overall, the food was pretty solid but the tofu thing was a little strange… I don’t think I ate it correctly. `Rating: 8/10`
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/kijurou.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+We visited the Arashiyama area afterwards which consisted of the Tenry-ji temple, Shishiku garden, Arashiyama Park, Arashiyama bamboo forest, and Togetsukyo Bridge. We paid $8 to enter the temple and garden which was worth it because the garden was pretty. The bamboo forest was packed as usual and a little underwhelming to be honest. However, we went to one of the viewpoints which overlooked the river and was quite nice.
+
+It was INSANE how many tourists there are in the Arashiyama area though. Literally where did all of these people come from…
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -244,11 +257,15 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
     </div>
 </div>
 
+While strolling through, we got some desserts and I saw a Cremia ice cream stand. I saw someone talking about that brand on Instagram and decided to try it even though it was on the more expensive side. To be honest, the ice cream didn’t taste that special and the cone was structurally unstable because the wafer kept leaking. `Rating: 6.5/10`
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/cremia.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+Since we’re in a new country, one of my priorities was trying the different foods available there. Okonomiyaki is essentially a Japanese pizza which Osaka is known for. I found a restaurant called Genki that had a lot of reviews specializing in this dish and turned out to be a local joint. The restaurant itself is small and probably a bar because every customer is forced to order drinks. I got the pork modern okonomiyaki which included yakisoba noodles on the bottom. The sauce itself was a new flavor I haven’t tried before but it was pretty good, just a little heavy.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -258,6 +275,8 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/genki.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+My dad ordered my mom a beer and that was also the first time I’ve ever drank with my parents. Here are selfies of me after three sips of the beer — quite embarrassing.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -278,8 +297,13 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
 - Nakatanidou - mochi men oogabooga-ing
 - Nara Park ft deer
 - Lunch @ Kamaiki Udon
-- Isu-en Garden, Todaiji Nigatsu-do,
+- Isu-en Garden, Todaiji Nigatsu-do
+- Supermarket
 - Dinner @ McDonalds
+
+I attempted making Japanese fruit sandwiches with my friends before but it was a disaster. If you know me, I also can’t survive without fruit because I need to eat it every day. Unfortunately, fruit is difficult to find in Japan and is pricey. I learned from Reddit that to find these sandwiches, you have to search “fruit parlor”.
+
+The shop above was in Nara and honestly really good. The bread was so fluffy and all of the fruits were sweet. One of the sandwiches was a little odd because it was kind of like a salad + imitation crab + apples on some bread. However, this ended up being a balanced combo since our other two sandwiches were sweet.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -293,6 +317,18 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
     </div>
 </div>
 
+Since we missed the monkey park at Arashiyama, I wanted to see the deer in Nara Park. They are quite literally everywhere in the park and my parents loved them. One deer even bit my mom’s cardigan which she wasn’t the biggest fan of. Throughout the 1.5 hours spent there, my mission was getting a selfie with a deer. It was mostly unsuccessful since I have no rizz.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/deer.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+The mochi slapping men have risen to fame which is why we had to see them in action as well. We arrived at the shop around 10:30 AM and it was already pretty packed, though they have different performances. I’m not the biggest mochi fan so it wasn’t revolutionary to me but I’m sure it was quality mochi.
+
+We hadn’t eaten udon yet in Japan so I found a restaurant that apparently received a Michelin star years prior. Unfortunately, I thought that the meal was pretty standard. Honestly, Marugame Udon might be better…
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/mochi.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -302,20 +338,15 @@ For some odd reason, search results told me that Kura Sushi was a good place to 
     </div>
 </div>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/nara.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/deer.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
+We visited the rest of the area in Nara and I was pretty interested in the history there because I started to actually read most of the signs HAHA. We ended up eating at McDonalds because I wanted to try the Japanese items on the menus.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/temple.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+Throughout this trip, I was admittedly mean to my mom and ended up making her cry during dinner. She’s a lot older and slower than me but incompetency/slowness is my biggest pet peeve which got on my nerves. I feel really bad about it and should apologize to her…
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -398,6 +429,8 @@ I had read on Reddit that the 7-11 egg salad sandwiches were delicious so obviou
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/eggsalad.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
+During the flight to Japan, I watched “The Idea of You” which is a horrible choice when you’re sitting next to your parents. On the flight back, I watched “Barbie” which made me fall asleep two times. _slayyyy_ 💅
 
 <br>
 
