@@ -63,11 +63,9 @@ On your Apple Wallet, make sure that you have a Mastercard on there. Those cards
 
 **HIGHLY, HIGHLY RECOMMEND** planning the majority of your trip in advance, especially factoring in transportation.
 
-1. What cities do you want to visit?
-
-- Book hotels at strategic locations (ex: live in Osaka if you want to visit Kyoto and Nara)
-
-2. What activities do you want to do/visit? What places do you want to eat at?
+- What cities do you want to visit?
+  - Book hotels at strategic locations (ex: live in Osaka if you want to visit Kyoto and Nara)
+- What activities do you want to do/visit? What places do you want to eat at?
 
 I didn't plan any of our itinerary until the night before each day so it was really tiring. Additionally, the lack of planning left us unable to see all the places we wanted to visit or try popular restaurants (most require a reservation). Navigating through the public transit system was also a struggle because it's hard to initially get a grasp of due to the magnitude and language barrier.
 
@@ -222,7 +220,7 @@ Gyukatsu Kyoto Katsugyu kept popping up and since my parents have never really t
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/firsttemples.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/firsttemples.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/gyukatsu.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -257,7 +255,7 @@ It was INSANE how many tourists there are in the Arashiyama area though. Literal
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/garden.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/bamboo.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/bamboo.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/river.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
