@@ -1,74 +1,88 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Name
+      value: Christy Quang
+    - name: Programming Languages
+      value: Python, Java, C++, SQL/PostgreSQL, React, HTML, CSS, JavaScript, C, Golang, Hack
+    - name: Certifications
+      value: <a href="https://www.credly.com/badges/3ae168c6-10e6-485c-9328-628465bf6a43/public_url">AWS Certified Solutions Architect — Associate</a>, <a href="https://www.credly.com/badges/c9137b4d-99c6-438f-9383-f21ca4f0a2f4/public_url">AWS Certified Cloud Practitioner</a>, <a href="https://citiprogram.org/verify/?w6fc2d219-82b2-45a8-8209-d3e7a45b1347-61380210">Group 1 Biomedical Research Investigators</a>
+    - name: Skills
+      value: Figma, Autodesk Fusion 360, Adobe Illustrator, Excel
     - name: Languages
-      value: English, German
+      value: English, Cantonese, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.A. Computer Science
+      institution: University of California, Berkeley
+      year: 2021 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Jacobs Institute Certificate in Design and Innovation
+        - SCET Certificate in Entrepreneurship & Technology
+    - title: B.A. Data Science
+      institution: University of California, Berkeley
+      year: 2021 - 2025
       description:
-        - Description 1.
-        - Description 2.
-
+        - Domain Emphasis - Business/Industrial Analytics
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Dual Enrollment in High School
+      institution: Diablo Valley College
+      year: 2020 - 2021
+      description:
+        - COMSC-260 - Assembly Language Programming/Computer Organization (2021)
+        - MATH-193 - Analytic Geometry and Calculus II (2021)
+        - MATH-142 - Elementary Statistics with Probability (2020)
+        - COMSC-255 - Programming With Java (2020)
+        - COMSC-140 - Python Programming (2020)
+    
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineer Intern
+      institution: Meta (Facebook)
+      department: Seattle, Washington
+      year: Summer 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        MFT ENG Business & Creator Monetization
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Cloud Engineer Intern
+      institution: Amazon Web Services (AWS)
+      department: Seattle, Washington
+      year: Summer 2023
       description:
-        - Description 1.
-        - Description 2.
+        - AWS Enterprise Skills Team
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Tutor for DATA C88C - Computational Structures in Data Science
+      institution: UC Berkeley
+      year: 2023 - 2024
+      description:
+        - Led highest attended exam prep section each week 
+        - Held 4 hours of office hours per week, hosted exam review sessions and wrote exam problems 
+        - Top answerer and commenter among tutors on Ed (online class forum to ask/answer questions)
+        - Taught topics including Python, higher order functions, recursion, trees, linked lists, OOP, efficiency, SQL
+      
+    - title: Academic Intern 
+      institution: UC Berkeley
+      year: 2022
+      description:
+        - Fall 2022 - CS61A
+        - Summer 2022 - CS61B(L)
+        - Spring 2022 - DATA 8
 
-- title: Honors and Awards
+
+- title: Extracurriculars
   type: time_table
   contents:
     - year: 1921
