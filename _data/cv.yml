@@ -3,12 +3,14 @@
   contents:
     - name: Name
       value: Christy Quang
+    - name: Email
+      value: christyquang@berkeley.edu
     - name: Programming Languages
-      value: Python, Java, C++, SQL/PostgreSQL, React, HTML, CSS, JavaScript, C, Golang, Hack
+      value: Python, Java, C++, SQL/PostgreSQL, React, HTML, CSS, JavaScript, C, Golang, Hack, RISC-V
     - name: Certifications
       value: <a href="https://www.credly.com/badges/3ae168c6-10e6-485c-9328-628465bf6a43/public_url">AWS Certified Solutions Architect — Associate</a>, <a href="https://www.credly.com/badges/c9137b4d-99c6-438f-9383-f21ca4f0a2f4/public_url">AWS Certified Cloud Practitioner</a>, <a href="https://citiprogram.org/verify/?w6fc2d219-82b2-45a8-8209-d3e7a45b1347-61380210">Group 1 Biomedical Research Investigators</a>
     - name: Skills
-      value: Figma, Autodesk Fusion 360, Adobe Illustrator, Excel
+      value: Figma, Autodesk Fusion 360 (3D modeling/printing), Adobe Illustrator (laser cutting), Autodesk Maya, Excel
     - name: Languages
       value: English, Cantonese, Mandarin
 
@@ -39,7 +41,7 @@
         - MATH-142 - Elementary Statistics with Probability (2020)
         - COMSC-255 - Programming With Java (2020)
         - COMSC-140 - Python Programming (2020)
-    
+
 - title: Experience
   type: time_table
   contents:
@@ -68,44 +70,50 @@
       institution: UC Berkeley
       year: 2023 - 2024
       description:
-        - Led highest attended exam prep section each week 
-        - Held 4 hours of office hours per week, hosted exam review sessions and wrote exam problems 
+        - Led highest attended exam prep section each week
+        - Held 4 hours of office hours per week, hosted exam review sessions and wrote exam problems
         - Top answerer and commenter among tutors on Ed (online class forum to ask/answer questions)
         - Taught topics including Python, higher order functions, recursion, trees, linked lists, OOP, efficiency, SQL
-      
-    - title: Academic Intern 
+
+    - title: Academic Intern
       institution: UC Berkeley
       year: 2022
       description:
-        - Fall 2022 - CS61A
-        - Summer 2022 - CS61B(L)
-        - Spring 2022 - DATA 8
-
+        - title: Assisted in weekly lab sections and office hours
+          contents:
+            - Fall 2022 - CS61A
+            - Summer 2022 - CS61B(L)
+            - Spring 2022 - DATA 8
 
 - title: Extracurriculars
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Association of Women in EE&CS (AWE)
+      year: 2022 - now
+      description:
+        - Treasurer [2024]
+        - External Vice President [2023]
+        - Industrial Relations Officer [2022]
+    - title: Computer Science Mentors
+      year: 2022 - now
+      description:
+        - Communications Chair
+        - Senior Mentor for CS88 [2023 - 2024]
+        - Junior Mentor for CS88 [2022]
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Human-Computer Interaction/Design, Basketball, Hiking, Baking, Photography, Music
