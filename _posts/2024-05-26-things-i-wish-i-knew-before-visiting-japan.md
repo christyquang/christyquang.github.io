@@ -6,6 +6,7 @@ description: essentials you should know as a first time visitor to japan
 tags: travel advice opinions
 categories: posts
 giscus_comments: false
+disqus_comments: true
 related_posts: false
 toc:
   sidebar: left
@@ -36,24 +37,19 @@ My dad randomly called me one day in the middle of April saying that he needed t
 
 ### Prior to Trip
 
-1. Make sure your cards are usable abroad.
-2. Add the transit cards (Suica, PASMOS, ICOCA) to your Apple Wallet (if you have an Apple device).
-
-- Click the `+` sign to add a card
-- Click `Transit Card`
-- Under the "Japan" section, click your preferred option (I used Suica)
-- Adding money is through the cards on your Apple Wallet
-  - Make sure you have a Mastercard on there
-
-3. Plan your trip in advance, especially places that are a "must-visit".
-
-- Make reservations for popular restaurants
-
-4. ZipAir
-
-- Read the fine details regarding baggage weights
-- Bring your own food on the flight (it doesn't add to your carry-on weight)
-- Have activities ready for the flight (ex: download movies) because there isn't an entertainment system provided
+- Make sure your cards are usable abroad.
+- Add the transit cards (Suica, PASMOS, ICOCA) to your Apple Wallet (if you have an Apple device).
+  - Click the `+` sign to add a card
+  - Click `Transit Card`
+  - Under the "Japan" section, click your preferred option (I used Suica)
+  - Adding money is through the cards on your Apple Wallet
+    - Make sure you have a Mastercard on there
+- Plan your trip in advance, especially places that are a "must-visit".
+  - Make reservations for popular restaurants
+- ZipAir
+  - Read the fine details regarding baggage weights
+  - Bring your own food on the flight (it doesn't add to your carry-on weight)
+  - Have activities ready for the flight (ex: download movies) because there isn't an entertainment system provided
 
 Since you're in a foreign country, make sure that you'll be able to use your cards. Call the bank beforehand and ask them to not block your cards because otherwise, the detectors think there’s a fraud and then you won't be able to use your cards.
 
