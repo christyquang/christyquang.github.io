@@ -2,7 +2,7 @@
 layout: page
 title: Linear to Rotary Motion
 description: An iconic and well-known action from a mobile game called “Among Us” — an adaptation of “venting”
-img: assets/img/projects/amongus.JPG
+img: assets/img/projects/amongus-pres.JPG
 importance: 3
 category: DESINV 22&#58; Prototyping & Fabrication
 giscus_comments: false
@@ -15,7 +15,6 @@ A bluetooth controlled car with two front driver wheels capable of powering thro
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <img class="experience__image__img" src="assets/img/projects/vehicle.JPG">
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTr1f1BLk4Hj2Ajoz2Sb7iDoyHXCaBkzW9PFFtz7FnA07VMArkM6zM21ehnPRIko6HaGGJtzJ1Dep2o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </div>
@@ -24,7 +23,7 @@ A bluetooth controlled car with two front driver wheels capable of powering thro
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/vehicle.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/projects/vehicle.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
