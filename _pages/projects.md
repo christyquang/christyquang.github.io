@@ -5,7 +5,8 @@ permalink: /projects/
 description: A collection of class and personal projects for CS and design.
 nav: true
 nav_order: 3
-display_categories: [CS 184&#58; Computer Graphics, DESINV 22&#58; Prototyping & Fabrication, DESINV 23&#58; Creative Programming & Electronics, UI/UX, Design]
+display_categories:
+  [CS 184&#58; Computer Graphics, DESINV 22&#58; Prototyping & Fabrication, DESINV 23&#58; Creative Programming & Electronics, UI/UX, Design]
 horizontal: false
 ---
 
