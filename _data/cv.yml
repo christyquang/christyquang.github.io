@@ -6,7 +6,7 @@
     - name: Email
       value: christyquang@berkeley.edu
     - name: Programming Languages
-      value: Python, Java, C++, SQL/PostgreSQL, React, HTML, CSS, JavaScript, C, Golang, Hack, RISC-V
+      value: Python, Java, C++, SQL/PostgreSQL, React, HTML, CSS, JavaScript, C, Golang, PHP/Hack, RISC-V
     - name: Certifications
       value: <a href="https://www.credly.com/badges/3ae168c6-10e6-485c-9328-628465bf6a43/public_url">AWS Certified Solutions Architect — Associate</a>, <a href="https://www.credly.com/badges/c9137b4d-99c6-438f-9383-f21ca4f0a2f4/public_url">AWS Certified Cloud Practitioner</a>, <a href="https://citiprogram.org/verify/?w6fc2d219-82b2-45a8-8209-d3e7a45b1347-61380210">Group 1 Biomedical Research Investigators</a>
     - name: Skills
@@ -66,9 +66,15 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: Tutor for DATA C88C - Computational Structures in Data Science
+    - title: UCS2 (TA) for DATA 101 - Data Engineering
       institution: UC Berkeley
-      year: 2023 - 2024
+      year: Fall 2024
+      description:
+        - Upcoming 12-hr uGSI
+
+    - title: UCS1 (Tutor) for DATA C88C - Computational Structures in Data Science
+      institution: UC Berkeley
+      year: FA23 - SP24
       description:
         - Led highest attended exam prep section each week
         - Held 4 hours of office hours per week, hosted exam review sessions and wrote exam problems

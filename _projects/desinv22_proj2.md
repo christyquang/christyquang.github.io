@@ -6,7 +6,6 @@ img: assets/img/projects/vehicle.JPG
 importance: 2
 category: DESINV 22&#58; Prototyping & Fabrication
 giscus_comments: false
-disqus_comments: true
 ---
 
 A bluetooth controlled car with two front driver wheels capable of powering through the different obstacles within the course

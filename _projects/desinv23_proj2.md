@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Sound Machine
-description: An automatic staircase to make ball bearings ascend then fall onto quarters to create a musical rhythm — process is repeated in an infinite cycle
-img: assets/img/projects/sound.JPG
-importance: 1
-category: DESINV 22&#58; Prototyping & Fabrication
+description: farty the smiling fart machine
+img: assets/img/projects/farty.JPG
+importance: 2
+category: DESINV 23&#58; Creative Programming & Electronics
 giscus_comments: false
 ---
 

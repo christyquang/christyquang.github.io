@@ -6,7 +6,6 @@ description: essentials you should know as a first time visitor to japan
 tags: travel advice opinions
 categories: posts
 giscus_comments: false
-disqus_comments: true
 related_posts: false
 toc:
   sidebar: left

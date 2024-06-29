@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sound Machine
-description: An automatic staircase to make ball bearings ascend then fall onto quarters to create a musical rhythm — process is repeated in an infinite cycle
-img: assets/img/projects/sound.JPG
-importance: 1
-category: DESINV 22&#58; Prototyping & Fabrication
-giscus_comments: false
+title: Mark Making Machine
+description: An automated representation of life + a noose
+img: assets/img/projects/splat.JPG
+importance: 3
+category: DESINV 23&#58; Creative Programming & Electronics
+disqus_comments: true
 ---
 
 A bluetooth controlled car with two front driver wheels capable of powering through the different obstacles within the course
