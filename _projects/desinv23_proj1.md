@@ -2,7 +2,7 @@
 layout: page
 title: Dashboard
 description: under construction
-img: assets/img/projects/dashboard.JPG
+img: assets/img/projects/dashboard.jpg
 importance: 1
 category: DESINV 23&#58; Creative Programming & Electronics
 giscus_comments: false
