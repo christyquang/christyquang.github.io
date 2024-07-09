@@ -6,7 +6,7 @@ description: A collection of class and personal projects for CS and design. Afte
 nav: true
 nav_order: 3
 display_categories:
-  [CS 184&#58; Computer Graphics, DESINV 23&#58; Creative Programming & Electronics, DESINV 22&#58; Prototyping & Fabrication, UI/UX, Design]
+  [CS 184&#58; Computer Graphics, DESINV 23&#58; Creative Programming & Electronics, DESINV 22&#58; Prototyping & Fabrication, Design, UI/UX]
 horizontal: false
 ---
 

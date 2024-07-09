@@ -35,7 +35,7 @@ As such, my goal is to work in all of the accessible libraries at UC Berkeley by
 #### Bancroft Library
 
 - **Eat:** `False`
-- If you’re quiet enough and there aren’t as many ppl, yes
+  - If you’re quiet enough and there aren’t as many ppl, yes
 - **Outlets:** `3/5`
   - Desks usually have one
 - **Seating:** `3/5`
@@ -54,7 +54,7 @@ As such, my goal is to work in all of the accessible libraries at UC Berkeley by
 
 <br>
 
-#### Law Library
+#### Berkeley Law Library
 
 - TBA
 
