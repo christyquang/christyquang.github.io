@@ -41,7 +41,7 @@ As such, my goal is to work in all of the accessible libraries at UC Berkeley by
 - **Seating:** `3/5`
   - Generally spots available
 - **Crowdedness:** `2.5/5`
-  - One of the bigger libraries so there tends to be people throughout the day and visitors throughout VLSB because of cool science artifacts/posters scattered throughout the building (like a dinosaur skeleton outside the library entrance)
+  - Tends to have tourists to view the architecture of this and Doe Library
   - Busy during exam season
 - **Noise:** `3.5/5`
   - Large and tall building so it’s kind of echoey but people are quiet
@@ -73,6 +73,7 @@ As such, my goal is to work in all of the accessible libraries at UC Berkeley by
 - **Crowdedness:** `3/5`
   - Although large, it’s near one of the edges of campus so less traffic than the libraries at the center
   - Can be busy during exam season
+  - One of the bigger libraries so there tends to be people throughout the day and visitors throughout VLSB because of cool science artifacts/posters scattered throughout the building (like a dinosaur skeleton outside the library entrance)
 - **Noise:** `2/5`
 - **Accessibility:** `4/5`
   - Opens early and closes around 9-10 PM throughout weekdays and weekends
@@ -89,7 +90,7 @@ As such, my goal is to work in all of the accessible libraries at UC Berkeley by
   - Easy to hide and eat
 - **Outlets:** `3/5`
   - Generally available at tables
-  - Seating: `4/5`
+- **Seating:** `4/5`
   - Large library, lots of seating
 - **Crowdedness:** `2.5/5`
   - Haas is at one of the edges/corners of campus that people don’t want to trek to so typically only Haas students use this library
