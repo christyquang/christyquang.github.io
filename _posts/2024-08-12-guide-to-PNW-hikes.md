@@ -147,7 +147,7 @@ In this article, I’ll be listing the trail I went on, the length of the trail,
 
 ### Carkeek Park
 
-- **Trail:** [Piper’s Creek Trail](​​https://www.alltrails.com/ar/trail/us/washington/carkeek-park-via-pipers-creek-trail)
+- **Trail:** Piper’s Creek Trail
 - **Length:** 3.6 mi
 - **Difficulty:** Easy
 - **Key Details:**
@@ -169,7 +169,7 @@ In this article, I’ll be listing the trail I went on, the length of the trail,
 
 ### Discovery Park
 
-- **Trail:** [Discovery Park and Lighthouse Loop](​​https://www.alltrails.com/ar/trail/us/washington/discovery-park-and-lighthouse-loop-trail)
+- **Trail:** Discovery Park and Lighthouse Loop
 - **Length:** 4.5 mi
 - **Difficulty:** Easy
 - **Key Details:**
