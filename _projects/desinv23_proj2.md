@@ -23,8 +23,7 @@ Embarrassingly enough, I spent way too much time and effort on this project. How
 
 Below is my more detailed write up for this project where I go through the materials used, the build process, etc. Here are also links to:
 
-- [Code](https://github.com/christyquang/desinv23/blob/main/sou
-  nd-machine.ino)
+- [Code](https://github.com/christyquang/desinv23/blob/main/sound-machine.ino)
 - [YouTube Demo](https://youtu.be/IClwqSAuPi8)
 
 <div class="pdf-container" style="width: 100%; max-width: 100%; height: 0; padding-bottom: 100%; position: relative; overflow: hidden;">
