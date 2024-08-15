@@ -8,59 +8,20 @@ category: DESINV 22&#58; Prototyping & Fabrication
 giscus_comments: false
 ---
 
-A bluetooth controlled car with two front driver wheels capable of powering through the different obstacles within the course
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/projects/sound.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTr1f1BLk4Hj2Ajoz2Sb7iDoyHXCaBkzW9PFFtz7FnA07VMArkM6zM21ehnPRIko6HaGGJtzJ1Dep2o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+One of my class projects was to make a sound machine which essentially means "make anything that is able to produce some type of noise". This was the first sound machine I made which focused more on prototyping/linear motion (check out my second sound machine [here](https://christyquang.github.io/projects/desinv23_proj2/)).
+
+I always considered marble machines as really cool contraptions and wanted to attempt recreating it. During this time, this was the middle of my first recruiting season so it was a topic constantly on my mind. As a result, this project is semi-inspired by that where the coins represent having a job and the marbles slowly ascending then clinking down in a loop represent the continuous hopeful-then-dismaying loop students have when going through the recruitment process.
+
+Below is my more detailed write up for this project where I go through the materials used, the build process, etc. Here is also the link to:
+
+- [YouTube Demo](https://www.google.com/url?q=https://www.youtube.com/channel/UC2yV-KrUSXTSKdI8N-k9P4Q&sa=D&source=editors&ust=1723709389197862&usg=AOvVaw3xc53b8MZwt-Zbt9R4u1ep)
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/projects/vehicle.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSf4DTs24RESr1bd-NkUXSRiwG6HcX3jt8aLnJq_E_2iqwW_e3uq1-nL-oqXANSgCqn7AKDIpEDL_fj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Arduino | Autodesk Fusion 360 | Adobe Illustrator | 3D Modelling & Printing | Laser Cutting
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

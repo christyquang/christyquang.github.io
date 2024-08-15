@@ -8,59 +8,31 @@ category: DESINV 22&#58; Prototyping & Fabrication
 giscus_comments: false
 ---
 
-A bluetooth controlled car with two front driver wheels capable of powering through the different obstacles within the course
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/projects/amongus.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTr1f1BLk4Hj2Ajoz2Sb7iDoyHXCaBkzW9PFFtz7FnA07VMArkM6zM21ehnPRIko6HaGGJtzJ1Dep2o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+One of my class projects was to make a machine that encompasses "linear to rotary motion". What this essentially means is "make anything that requires user interaction but causes something to move".
+
+As the first "big" project in DESINV 22, I had no clue what to make, let alone have any ideas for what motion I wanted to create. We had just learned how to laser cut designs in class and I was embarrassingly pretty associated with the game "_Among Us_" at the time which is why I thought it'd be hilarious to laser cut an Among Us character recreate it "venting".
+
+Below is my more detailed write up for this project where I go through the materials used, the build process, etc. Here is also the link to:
+
+- [YouTube Demo](https://youtu.be/P4UvP38Zs94)
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/projects/vehicle.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEp3gNurqH8O_yq4WTgG2h9xBi4_8VYRIAS0zVefy02JE3qCu_Nq1Qo7fX3dhKBW5lrQUCOnM50kxE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<br>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 300px;">
+        {% include figure.liquid loading="eager" path="/assets/img/projects/amongus-selfie.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="caption">
+        Selfie of my first successful laser cut print of an Among Us for this project.
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Arduino | Autodesk Fusion 360 | Adobe Illustrator | 3D Modelling & Printing | Laser Cutting
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

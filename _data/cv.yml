@@ -50,7 +50,7 @@
       department: Seattle, Washington
       year: Summer 2024
       description:
-        MFT ENG Business & Creator Monetization
+        MFT ENG Business & Creator Monetization - Enterprise Infrastructure
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -68,7 +68,7 @@
   contents:
     - title: UCS2 (TA) for DATA 101 - Data Engineering
       institution: UC Berkeley
-      year: Fall 2024
+      year: FA24
       description:
         - Upcoming uGSI
 

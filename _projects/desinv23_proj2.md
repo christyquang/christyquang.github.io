@@ -8,59 +8,29 @@ category: DESINV 23&#58; Creative Programming & Electronics
 giscus_comments: false
 ---
 
-A bluetooth controlled car with two front driver wheels capable of powering through the different obstacles within the course
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTr1f1BLk4Hj2Ajoz2Sb7iDoyHXCaBkzW9PFFtz7FnA07VMArkM6zM21ehnPRIko6HaGGJtzJ1Dep2o/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="/assets/img/projects/vehicle.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="/assets/img/projects/farty.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    farty
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+One of my class projects was to make a sound machine which essentially means "make anything that is able to produce some type of noise". Since I had already made another [sound machine](https://christyquang.github.io/projects/desinv22_proj1/) in DESINV 22 that focused more on prototyping/linear motion, I wanted this project to emphasize more on the electronics side. I value laughter so I wanted my machine to embody any sort of humorical aspect. As such, I thought of creating a fart machine: a contraption and prank device that produces fart noises.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+Embarrassingly enough, I spent way too much time and effort on this project. However, it has definitely been my most favorite build so far...
+
+Below is my more detailed write up for this project where I go through the materials used, the build process, etc. Here are also links to:
+
+- [Code](https://github.com/christyquang/desinv23/blob/main/sou
+  nd-machine.ino)
+- [YouTube Demo](https://youtu.be/IClwqSAuPi8)
+
+<div class="pdf-container" style="width: 100%; max-width: 100%; height: 0; padding-bottom: 100%; position: relative; overflow: hidden;">
+    <object data="/assets/pdf/farty.pdf" type="application/pdf" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
+        <embed src="/assets/pdf/farty.pdf">
+            <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/farty.pdf">Download PDF</a>.</p>
+        </embed>
+    </object>
 </div>
-<div class="caption">
-    Arduino | Autodesk Fusion 360 | Adobe Illustrator | 3D Modelling & Printing | Laser Cutting
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
