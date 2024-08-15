@@ -147,7 +147,7 @@ In this article, I’ll be listing the trail I went on, the length of the trail,
 
 ### Carkeek Park
 
-- **Trail:** [Piper’s Creek Trail](​​https://www.alltrails.com/trail/us/washington/pipers-creek-trail?u=i&sh=hlyhtw)
+- **Trail:** [Piper’s Creek Trail](​​https://www.alltrails.com/ar/trail/us/washington/carkeek-park-via-pipers-creek-trail)
 - **Length:** 3.6 mi
 - **Difficulty:** Easy
 - **Key Details:**
