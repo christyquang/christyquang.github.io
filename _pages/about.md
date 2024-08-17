@@ -17,4 +17,4 @@ social: true # includes social icons at the bottom of the page
 
 ### 🧱 UNDER CONSTRUCTION 🧱
 
-lol
+a work-in-progress 😵‍💫

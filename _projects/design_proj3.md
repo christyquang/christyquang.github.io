@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tesla Super(phone)charger
-description: An automatic staircase to make ball bearings ascend then fall onto quarters to create a musical rhythm — process is repeated in an infinite cycle
+description: A 3D printed model of a Tesla Supercharger that dupes as a phone charger cable holder
 img: assets/img/projects/tesla.JPG
 importance: 1
 category: Design
