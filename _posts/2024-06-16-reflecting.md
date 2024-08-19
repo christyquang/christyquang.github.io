@@ -16,4 +16,3 @@ toc:
 `redacted` but sometimes it's nice to just stop, rest, and think about life.
 
 <hr>
-

@@ -22,7 +22,7 @@ I’ve never been on a hike until I was 20 years old. During my first summer in 
 
 During my second summer in Seattle, my objective was to go on a hike every weekend since Washington’s nature is beautiful and more accessible than the hikes in California. I also needed some sort of consistent exercise with all of the free food I was getting 💀. Admittedly, I’ve become a granola girl and have bought a pair of hiking boots, a hiking backpack, trail mix, forest day passes, and rented some cars to just go hiking during Summer 2024. My next purchase will probably be a pair of hiking poles or a REI subscription 💀.
 
-I’m by no means an experienced hiker which is why I think it’d be nice to have reviews from someone who started hiking with no experience and also isn’t an incredibly fit athlete (introduces bias) either LOL. I also didn’t have a car during both summers so I wanted to share hikes I was able to go on without a car. Lastly, I’ve been asked by many people which
+I’m by no means an experienced hiker which is why I think it’d be nice to have reviews from someone who started hiking with no experience and also isn’t an incredibly fit athlete (introduces bias) either LOL. Additionally, I didn’t have a car during both summers so I wanted to share hikes I was able to go on without a car. Lastly, I’ve been asked by many people which hikes I'd recommend going on for beginners in Seattle so this is my comprehensive list.
 
 In this article, I’ll be listing the trail I went on, the length of the trail, difficulty, key details, and a summary of my hike. During Summer 2023, I lived in Capitol Hill and the UW area whereas in Summer 2024, I lived in Capitol Hill so transportation will be based off of those areas.
 
