@@ -265,7 +265,9 @@ While strolling through, we got some desserts and I saw a Cremia ice cream stand
     </div>
 </div>
 
-Since we’re in a new country, one of my priorities was trying the different foods available there. Okonomiyaki is essentially a Japanese pizza which Osaka is known for. I found a restaurant called Genki that had a lot of reviews specializing in this dish and turned out to be a local joint. The restaurant itself is small and probably a bar because every customer is forced to order drinks. I got the pork modern okonomiyaki which included yakisoba noodles on the bottom. The sauce itself was a new flavor I haven’t tried before but it was pretty good, just a little heavy.
+Since we’re in a new country, one of my priorities was trying the different foods available there. Okonomiyaki is essentially a Japanese pizza which Osaka is known for. I found a restaurant called Genki that had a lot of reviews specializing in this dish and turned out to be a local joint. The restaurant itself is small and probably a bar because every customer is forced to order drinks. My dad ordered my mom a beer and that was also the first time I’ve ever drank with my parents.
+
+I got the pork modern okonomiyaki which included yakisoba noodles on the bottom. The sauce itself was a new flavor I haven’t tried before but it was pretty good, just a little heavy.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -273,17 +275,6 @@ Since we’re in a new country, one of my priorities was trying the different fo
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blogs/japan/genki.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
-My dad ordered my mom a beer and that was also the first time I’ve ever drank with my parents. Here are selfies of me after three sips of the beer — quite embarrassing.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/prered.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/blogs/japan/redselfie.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

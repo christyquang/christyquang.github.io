@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of class and personal projects for CS and design. After taking DESINV 22 (Prototyping and Fabrication) @ UC Berkeley, I discovered that I enjoy design (primarily prototyping). While I’m not the conventional designer that specializes in making things look aesthetically pleasing, I lean towards physical design and creating useful products since I prioritize utility and optimization. I've completed Berkeley's Certificate in Design Innovation and SCET's Certificate in Entrepreneurship & Technology due to my interest in design and hope to get more involved with human-centered interaction research and robotics. In the meantime, my goal is to one day own my personal 3D printer and laser cutter (Glowforge 👀) in my home.
+description: A collection of class and personal projects for CS and design. After taking DESINV 22 (Prototyping and Fabrication) @ UC Berkeley, I discovered that I enjoy design (primarily prototyping). I've completed Berkeley's Certificate in Design Innovation and SCET's Certificate in Entrepreneurship & Technology and hope to get more involved with human-centered interaction research and robotics. In the meantime, my goal is to one day own my personal 3D printer and laser cutter (Glowforge 👀) in my home.
 nav: true
 nav_order: 3
 display_categories:

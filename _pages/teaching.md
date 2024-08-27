@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-i will update this later lol
+this will be updated some day in the future
