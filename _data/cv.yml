@@ -9,8 +9,8 @@
       value: Python, Java, C++, SQL/PostgreSQL, PHP/Hack, React, HTML, CSS, JavaScript, MongoDB, C, Golang, RISC-V
     - name: Certifications
       value: <a href="https://www.credly.com/badges/3ae168c6-10e6-485c-9328-628465bf6a43/public_url">AWS Certified Solutions Architect — Associate</a>, <a href="https://www.credly.com/badges/c9137b4d-99c6-438f-9383-f21ca4f0a2f4/public_url">AWS Certified Cloud Practitioner</a>, <a href="https://citiprogram.org/verify/?w6fc2d219-82b2-45a8-8209-d3e7a45b1347-61380210">Group 1 Biomedical Research Investigators</a>
-    - name: Skills
-      value: Figma, Autodesk Fusion 360 (3D modeling/printing), Adobe Illustrator (laser cutting), Autodesk Maya (animation), Excel, Adobe Lightroom (photography)
+    - name: Software/Tools
+      value: Git, Figma, ROS, Pandas, Autodesk Fusion 360 (3D modeling/printing), Adobe Illustrator (laser cutting), Autodesk Maya (animation), Excel, Adobe Lightroom (photography)
     - name: Languages
       value: English, Cantonese, Mandarin
 
@@ -46,6 +46,12 @@
   type: time_table
   contents:
     - title: Software Engineer Intern
+      institution: Mercury
+      department: San Francisco, California
+      year: Winter 2025
+      description:
+        - Security
+    - title: Software Engineer Intern
       institution: Meta (Facebook)
       department: Seattle, Washington
       year: Summer 2024
@@ -70,7 +76,7 @@
       institution: UC Berkeley
       year: FA24
       description:
-        - "Course Website: <a href=\"https://data101.org/fa24/\">Fall 2024</a>"
+        - 'Course Website: <a href="https://data101.org/fa24/">Fall 2024</a>'
         - "Served as lead <b>Logistics TA</b>: Managed weekly announcements, course email inbox, all exam logistics (room and seating assignments for students, staff proctoring and grading logistics, exam review sessions) for the midterm and final exams, pre/mid/end semester feedback forms, monitored Ed"
         - Taught weekly discussion sections, created discussion section slides, held office hours, answered student questions on Ed
         - "#2 answerer and #2 commenter among all staff on Ed (online class forum to ask/answer questions)"
@@ -79,7 +85,7 @@
       institution: UC Berkeley
       year: FA23 - SP24
       description:
-        - "Course Websites: <a href=\"https://c88c.org/sp24/\">Spring 2024</a>, <a href=\"https://c88c.org/fa23/\">Fall 2023</a>"
+        - 'Course Websites: <a href="https://c88c.org/sp24/">Spring 2024</a>, <a href="https://c88c.org/fa23/">Fall 2023</a>'
         - Led highest attended exam prep section each week
         - Held 4 hours of office hours per week, hosted exam review sessions and wrote exam problems
         - Top answerer and commenter among tutors on Ed (online class forum to ask/answer questions)
