@@ -11,7 +11,8 @@ toc:
   sidebar: left
 ---
 
-**[July 8, 2024]** 12/18 libraries visited. my life is so boring lol
+- **[December 26, 2024]** 14/18 libraries visited.
+- **[July 8, 2024]** 12/18 libraries visited. my life is so boring lol
 
 <hr>
 
@@ -110,7 +111,22 @@ As such, my goal is to work in all of the accessible libraries at UC Berkeley by
 
 #### Chemistry, Astronomy & Physics
 
-- TBA
+- **Eat:** `True`
+  - Doable depending on location
+- **Outlets:** `3/5`
+  - Available at tables and desks, can even borrow power banks
+- **Seating:** `3/5`
+  - 2 floors, a good amount of seating throughout both
+- **Crowdedness:** `3/5`
+  - Not as popular library
+- **Noise:** `2.5/5`
+  - Louder on the first floor
+- **Accessibility:** `3/5`
+  - Closes semi-early (8 PM) and open on weekends until 5 PM
+- **Comments**
+  - Don’t need Cal-ID to enter
+  - The entrance is a bit difficult to find
+  - Honestly pleasantly pleased with this library since it has good lighting, good seating + outlets, and isn't too quiet or crowded. The only con would probably be its location
 
 <br>
 
@@ -378,7 +394,20 @@ NOTE: Review based on before renovation
 
 #### Morrison
 
-- TBA
+- **Eat:** `False`
+- **Outlets:** `2/5`
+  - Available at desks? But limited
+- **Seating:** `2/5`
+  - 2 floors but a few desks, mostly a lot of couches for reading
+- **Crowdedness:** `2/5`
+  - Not as popular library because you're only supposed to read there
+- **Noise:** `1/5`
+- **Accessibility:** `2/5`
+  - In an obscure location, closes relatively early and the second floor seems harder to access
+- **Comments**
+  - Don’t need Cal-ID to enter
+  - Do not use technology inside this library, you will get side-eyed
+  - Historical appearance
 
 <br>
 

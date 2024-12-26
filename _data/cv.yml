@@ -48,7 +48,7 @@
     - title: Software Engineer Intern
       institution: Mercury
       department: San Francisco, California
-      year: Winter 2025
+      year: Spring 2025
       description:
         - Security
     - title: Software Engineer Intern
@@ -72,7 +72,14 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: UCS2 (TA) for DATA 101 - Data Engineering
+    - title: Head Teaching Assistant for DATA 101 - Data Engineering
+      institution: UC Berkeley
+      year: SP25
+      description:
+        - 'Course Website: <a href="https://data101.org/sp25/">Spring 2025</a>'
+        - TBA
+
+    - title: Teaching Assistant for DATA 101 - Data Engineering
       institution: UC Berkeley
       year: FA24
       description:
@@ -81,7 +88,7 @@
         - Taught weekly discussion sections, created discussion section slides, held office hours, answered student questions on Ed
         - "#2 answerer and #2 commenter among all staff on Ed (online class forum to ask/answer questions)"
 
-    - title: UCS1 (Tutor) for DATA C88C - Computational Structures in Data Science
+    - title: Tutor for DATA C88C - Computational Structures in Data Science
       institution: UC Berkeley
       year: FA23 - SP24
       description:
