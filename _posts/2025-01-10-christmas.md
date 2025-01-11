@@ -20,7 +20,7 @@ Everyone has different traditions and activities so here is how my family does C
 
 Looking back, I can only recall my family decorating and putting up a Christmas tree three times, all occurrences before entering middle school. There were probably a few more instances of the tree being put up when I was really little but I don’t really remember those times. My family isn’t Christian but Christmas is such a global holiday that most people celebrate it, especially given its presence in various media forms (ex: books, movies, shows, etc).
 
-*So, why doesn’t my family celebrate Christmas?*
+_So, why doesn’t my family celebrate Christmas?_
 
 I think the main reason is because my parents never celebrated it growing up either. Since they immigrated to America during their teenage years, they didn’t get much exposure to those festivities while trying to make ends meet.
 
