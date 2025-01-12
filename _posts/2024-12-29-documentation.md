@@ -8,7 +8,7 @@ categories: posts
 giscus_comments: false
 related_posts: false
 toc:
-  sidebar: left
+  beginning: false
 images:
   compare: true
   slider: true
