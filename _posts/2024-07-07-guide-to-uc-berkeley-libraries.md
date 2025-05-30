@@ -11,8 +11,9 @@ toc:
   sidebar: left
 ---
 
-- **[December 26, 2024]** 14/18 libraries visited.
-- **[July 8, 2024]** 12/18 libraries visited. my life is so boring lol
+- **[May 16, 2025]** done.
+- **[December 26, 2024]** 14/21 libraries visited.
+- **[July 8, 2024]** 12/21 libraries visited. my life is so boring lol
 
 <hr>
 
@@ -22,7 +23,7 @@ One of my favorite aspects about UC Berkeley that I take for granted is the numb
 
 I enjoy working in libraries because I’m able to focus in a location where others are working as well. I call this “peer pressure”, where knowing the presence of others hard at work motivates me to be productive as well. Additionally, my apartment is further away from campus so it’s unideal for me to go back and forth from different locations when working, hence why I just go to a library.
 
-As such, my goal is to work in all of the accessible libraries at UC Berkeley by the time I graduate and to provide my opinion on all of them for anyone interested. The number of libraries vary but according to this [article](https://www.lib.berkeley.edu/about/news/library-101), there are 20 libraries (though not all are accessible for undergraduate students). I’ll be ranking them by the criteria below with a scale from 1 (worst) to 5 (best) with additional comments underneath (ex: needing to show Cal-ID). It’s difficult to rank which libraries I like best so I’ll notate my preferences on which ones to go to for certain needs.
+As such, my goal is to work in all of the accessible libraries at UC Berkeley by the time I graduate and to provide my opinion on all of them for anyone interested. The number of libraries vary but according to this [article](https://www.lib.berkeley.edu/about/news/library-101), there are 21 libraries (though not all are accessible for undergraduate students). I’ll be ranking them by the criteria below with a scale from 1 (worst) to 5 (best) with additional comments underneath (ex: needing to show Cal-ID). It’s difficult to rank which libraries I like best so I’ll notate my preferences on which ones to go to for certain needs.
 
 - Ability to eat
 - Ability to find an outlet
@@ -32,6 +33,23 @@ As such, my goal is to work in all of the accessible libraries at UC Berkeley by
 - Accessibility (duration of being open)
 
 <br>
+
+#### Art History/Classics Library
+
+- **Eat:** `False`
+  - 
+- **Outlets:** `3/5`
+  - 
+- **Seating:** `3/5`
+  - 
+- **Crowdedness:** `2.5/5`
+  - 
+- **Noise:** `3.5/5`
+  - 
+- **Accessibility:** `4/5`
+  - 
+- **Comments**
+  - 
 
 #### Bancroft Library
 
@@ -294,6 +312,12 @@ NOTE: Review based on before renovation
 
 <br>
 
+#### Institute of Transportation Studies
+
+- TBA
+
+<br>
+
 #### Main (Gardner) Stacks
 
 🏆 Best for grinding
@@ -357,6 +381,8 @@ NOTE: Review based on before renovation
 <br>
 
 #### Moffitt
+
+NOTE: Review based on before renovation
 
 🏆 _Best for eating_
 
@@ -435,5 +461,9 @@ NOTE: Review based on before renovation
 <br>
 
 #### Social Research
+
+- TBA
+
+#### South/Southeast Asia
 
 - TBA
