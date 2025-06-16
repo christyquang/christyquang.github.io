@@ -37,19 +37,18 @@ As such, my goal is to work in all of the accessible libraries at UC Berkeley by
 #### Art History/Classics Library
 
 - **Eat:** `False`
-  - 
 - **Outlets:** `3/5`
-  - 
+  - A few at one of the entrances
 - **Seating:** `3/5`
-  - 
-- **Crowdedness:** `2.5/5`
-  - 
-- **Noise:** `3.5/5`
-  - 
-- **Accessibility:** `4/5`
-  - 
+  - Maybe 4 seats at one of the entrances
+- **Crowdedness:** `5/5`
+- **Noise:** `4/5`
+- **Accessibility:** `1/5`
+  - Extremely hidden library, I think I got lost twice trying to find it
 - **Comments**
-  - 
+  - This library is for graduate art students so undergrads aren't able to book any rooms. In general though, it's still a very small library
+
+  <br>
 
 #### Bancroft Library
 
@@ -75,7 +74,22 @@ As such, my goal is to work in all of the accessible libraries at UC Berkeley by
 
 #### Berkeley Law Library
 
-- TBA
+- **Eat:** `False`
+  - Drinks with a lid are allowed but no actual food
+- **Outlets:** `4/5`
+  - At basically every table
+- **Seating:** `3/5`
+  - Lots of tables
+- **Crowdedness:** `3/5`
+  - Not too sure since I've only been here once but since you can only enter if you're a Berkeley Law student, I assume it's not crowded at all
+- **Noise:** `4/5`
+  - Graduate students are mature
+- **Accessibility:** `2/5`
+  - With the restricted access, it's not accessible to all students
+  - Also on the highest floor which is a bit of a trek from the front entrance
+- **Comments**
+  - Solid and serene library
+  - Reminds me of a modern Mainstacks with more natural lighting but sadly only law graduate students can enter
 
 <br>
 
@@ -302,19 +316,59 @@ NOTE: Review based on before renovation
 
 #### Ethnic Studies
 
-- TBA
+- **Eat:** `False`
+- **Outlets:** `2.5/5`
+  - Library is pretty small, didn't seem like there were a lot of available outlets
+- **Seating:** `2/5`
+  - Very few tables and seats in the library since it's so small
+- **Crowdedness:** `3/5`
+  - During dead week, it was surprisingly crowded
+- **Noise:** `4/5`
+- **Accessibility:** `3/5`
+  - Closes at 5pm and opens semi-late
+- **Comments**
+  - Don’t need Cal-ID to enter
 
 <br>
 
 #### Institute of Governmental Studies
 
-- TBA
+- **Eat:** `False`
+- **Outlets:** `3/5`
+  - Library isn't too large but there were outlets near every table
+- **Seating:** `3.5/5`
+  - A few tables on the upper and lower levels
+- **Crowdedness:** `4/5`
+  - Lesser known library so not too many people go to this library
+- **Noise:** `4/5`
+- **Accessibility:** `3/5`
+  - Even though it's a lesser known library, it's easy to find since it's on the ground floor
+  - Closes at 5pm and opens semi-late
+- **Comments**
+  - Don’t need Cal-ID to enter
 
 <br>
 
 #### Institute of Transportation Studies
 
-- TBA
+🏆 Cutest last-minute library find
+
+- **Eat:** `False`
+- **Outlets:** `3/5`
+  - Library isn't too large but there were outlets near every table
+- **Seating:** `3.5/5`
+  - Most of the seating is at the center of the library. There's also a small couch area
+- **Crowdedness:** `4/5`
+  - Lesser known library so not too many people go to this library
+- **Noise:** `3/5`
+  - Can talk in this library
+- **Accessibility:** `3/5`
+  - Kind of hard to find
+  - Closes at 5pm and opens semi-late
+  - There are no women's restrooms in the same building... you need to go to the adjacent connecting building to go to the library
+- **Comments**
+  - Don’t need Cal-ID to enter
+  - There's a ping pong table and basketball hoop in the library
 
 <br>
 
@@ -462,8 +516,37 @@ NOTE: Review based on before renovation
 
 #### Social Research
 
-- TBA
+- **Eat:** `False`
+  - Drinks with a lid are allowed
+- **Outlets:** `3/5`
+  - Seemed like there were a couple at the tables
+- **Seating:** `3/5`
+  - Medium sized library, a good number of tables and seats
+- **Crowdedness:** `3/5`
+  - During dead week, it was pretty crowded but I think any other time, it shouldn't be crowded since it's in one of the Northwest buildings and kind of hard to find
+- **Noise:** `3.5/5`
+  - Some whispering allowed
+- **Accessibility:** `2/5`
+  - This was one of the hardest libraries for me to find
+  - Building is old and the library is on the highest floor
+- **Comments**
+  - Lots of natural lighting and the library seems very cozy/historic
+
+  <br>
 
 #### South/Southeast Asia
 
-- TBA
+- **Eat:** `False`
+  - Drinks with a lid are allowed
+- **Outlets:** `3/5`
+  - Few at the tables and small cubicles
+- **Seating:** `3/5`
+  - Given the size of the library, the seating wasn't bad since there are a few large tables, some couches and cubicles
+- **Crowdedness:** `4/5`
+  - Library is tucked away so I doubt people are coming to it regularly
+- **Noise:** `4/5`
+- **Accessibility:** `4/5`
+  - Even though it's not a popular library, the entrance is probably closer than going to Mainstacks and not too difficult to find
+- **Comments**
+  - Last library I went to on my bucket list and before graduating
+  - I thought this library was so cute, twas unfortunate that I discovered it during my last day of school LOL
