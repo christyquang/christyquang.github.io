@@ -56,7 +56,6 @@ I panicked and called the lounge to see if there was any way to transfer my book
     pagination-dynamic-bullets="true" 
     rewind="true"
     style="max-width: 450px;">
-    
     <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/blogs/barcelona/lounge.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </swiper-slide>
@@ -261,6 +260,7 @@ For dinner and dessert, I went to Bodega del Born which is a traditional tapas l
     <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/blogs/barcelona/bodega.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </swiper-slide>
+  </swiper-container>
 </div>
 
 <br>
@@ -303,6 +303,7 @@ I didn’t realize that I needed to download the app and audio guide prior to en
     <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/blogs/barcelona/park-guell-5.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </swiper-slide>
+  </swiper-container>
 </div>
 
 Afterwards, I walked down from the park to the Sagrada Família. I was so hungry that during the walk, I mistook some images on an OBGYN office as gelato flavors… At the Sagrada Família, I also needed to download their app and audio guide which I was luckily able to do since there was public WiFi. I had to listen to the express version but I thought this attraction was especially intricate and fascinating… I wish I was able to spend more time there.
@@ -326,6 +327,7 @@ Afterwards, I walked down from the park to the Sagrada Família. I was so hungry
     <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/blogs/barcelona/sagrada-3.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </swiper-slide>
+  </swiper-container>
 </div>
 
 I needed to try paella so I went to The famous Bar because it was close by and decently rated. To my surprise, there were a lot of asian people dining at the restaurant. I couldn’t read the menu and my data wasn’t working so I ordered something that looked like seafood paella. It was pretty good but definitely a bit heavy. After the meal, I went back to my hostel, showered, and went to sleep.
@@ -345,7 +347,7 @@ I needed to try paella so I went to The famous Bar because it was close by and d
 
 Another late start to this day and since it was so hot (over 90°F), I was pretty unmotivated to go to Montserrat because it’s even hotter there. After getting my açaí bowl from Oakberry, I decided to still go because I shouldn’t be moping around while in a new country. The acai bowl was good but after looking at what I paid for it, it’s definitely not worth it.
 
-This [article](https://www.barcelona-tourist-guide.com/en/tour/train-journey-barcelona-to-montserrat.html) is very informative on how to get to Montserrat from Barcelona and it’s definitely tricky to navigate around. There are mainly two ticket packages to choose from for Montserrat and I chose the Trans Montserrat ticket because it included all of the tickets I needed. It was ~$50 which isn’t bad, but I think it’s cheaper if you buy the tickets individually.
+The article called "Train Journey Barcelona to Montserrat" from Barcelona Tourist Guide is very informative on how to get to Montserrat from Barcelona and it’s definitely tricky to navigate around. There are mainly two ticket packages to choose from for Montserrat and I chose the Trans Montserrat ticket because it included all of the tickets I needed. It was ~$50 which isn’t bad, but I think it’s cheaper if you buy the tickets individually.
 
 The train to Montserrat was about an hour long but thankfully, there was air conditioning on it. To get up to Montserrat, you can choose between the cable car or railway option. I chose the cable car option because it’s more scenic, but I didn’t read the article closely enough and apparently, you have to depart one stop earlier than what Google Map recommends in order to get on the cable car… I didn’t do this so I had to spend ~$10 more to get on the railway because otherwise, I’d have to wait an hour for the train to come back in the opposite direction. The railway was good because there was air conditioning and the views from the railway were particularly scenic since the route up to Montserrat was basically around the mountain.
 
@@ -372,6 +374,7 @@ The basilica was interesting to walk through and afterwards, I walked through so
     <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/blogs/barcelona/montserrat-3.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </swiper-slide>
+  </swiper-container>
 </div>
 
 Around 4pm, I decided to head back to Barcelona since I had finished exploring Montserrat. I was able to find the cable car down to the train station and it was a good experience seeing the views as we descended, plus there was a nice breeze. The train back to Barcelona was the same but it was a bit more crowded and hot.
@@ -394,6 +397,7 @@ I got back to Barcelona around 6 PM and decided to go to Arc de Triomf and Parc 
     <swiper-slide>
       {% include figure.liquid loading="eager" path="assets/img/blogs/barcelona/park.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </swiper-slide>
+  </swiper-container>
 </div>
 
 Up till now, I hadn’t pooped since leaving SF (Sunday) because the toilet paper came out so scrunched. I didn’t really have a need to poop until yesterday, and it was all I could think about from Wednesday to Friday (today). My flight was the next day so I thought that I had come so far, I should just extend the streak of not pooping since it was just one more day. Unfortunately, every instance of me eating fruit triggered the desire to poop because of the fiber. Additionally, walking was one step closer to pooping in my pants so once I arrived back at my hostel, I pooped for the first time since Sunday. I was unsuccessful in my challenge of not pooping throughout my trip but at least, I was able to extend my streak of days gone without pooping to five days.
