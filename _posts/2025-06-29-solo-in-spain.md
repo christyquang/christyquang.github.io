@@ -11,6 +11,10 @@ toc:
   sidebar: left
 ---
 
+**Note:** I apologize in advance about the slider functionality not working for the images 😔.
+
+<hr>
+
 ### My Itinerary
 
 I had just graduated from college and this was the most impulsive decision I’ve made so far in my life. Since I was going to be starting work soon and be a corporate cog with limited travel opportunities, I randomly decided that I should travel about two weeks before my start date near the end of June. However, most of my friends are older than me and already working, which meant that it’d be difficult for them to suddenly request time off for a last minute trip.
@@ -95,7 +99,7 @@ My check-in time for the hostel was at 3 PM so I had a couple of hours to explor
     </div>
 </div>
 <div class="caption">
-    Cup of watermelon + juice!
+    Cups of watermelon + juice!
 </div>
 
 After lunch, I walked around La Rambla which is essentially a long street down to Mirador de Colom (Colombus Monument). Then, I walked to Port Vell and checked out Maremagnum, which is a mall with air conditioning because it was so hot. The Balearic Sea water was extremely turquoise and pretty with fish swimming in it, but the mall was pretty standard.
@@ -239,7 +243,7 @@ Barceloneta Beach was also fairly standard but since I didn’t bring a swimsuit
     </div>
 </div>
 <div class="caption">
-    Brookie
+    Cathedral
 </div>
 
 For dinner and dessert, I went to Bodega del Born which is a traditional tapas location and Xurreria Laietana for chocolate dipped churros. Both were pretty good (churros were kind of yeet hay) and I sat at Plaça de Catalunya eating the churros while watching the sunset. One thing to note is that most restaurants in Spain kind of expect you to drink and since I get terrible asian glow, I always asked for water which I thought was free, but turned out to have a cost lol. I tried an anchovy dish and it was surprisingly pretty good.
