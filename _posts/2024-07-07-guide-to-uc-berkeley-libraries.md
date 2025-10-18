@@ -46,7 +46,6 @@ As such, my goal is to work in all of the accessible libraries at UC Berkeley by
 - **Accessibility:** `1/5`
   - Extremely hidden library, I think I got lost twice trying to find it
 - **Comments**
-
   - This library is for graduate art students so undergrads aren't able to book any rooms. In general though, it's still a very small library
 
   <br>
@@ -531,7 +530,6 @@ NOTE: Review based on before renovation
   - This was one of the hardest libraries for me to find
   - Building is old and the library is on the highest floor
 - **Comments**
-
   - Lots of natural lighting and the library seems very cozy/historic
 
   <br>
